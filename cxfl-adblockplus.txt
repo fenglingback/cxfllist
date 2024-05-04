@@ -7,4 +7,6 @@
 ! 这是本人自用的规则，在互联网冲浪过程中不断进行补充(点击ABP图标>齿轮>高级>我的过滤列表下文本框)
 ! Email (fenglinggod@qq.com)
 
+!------------------------Specific element hiding rules------------------------!
 ghxi.com##div[style="padding: 10px; position: fixed; bottom: 0px; left: 0px; right: 0px; z-index: 99; background-color: rgb(204, 68, 68); color: rgb(255, 255, 255); --darkreader-inline-bgcolor: #982a2a; --darkreader-inline-color: #e8e6e3;"]
+!----------------------------------The End------------------------------------!
