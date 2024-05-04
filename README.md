@@ -31,6 +31,7 @@
 
 * PC 端 and 移动端
 
+> [!IMPORTANT]
 > EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + CJX's ublock origin list + 乘风 + Web Annoyances Ultralist + I don't care about cookies + runningcheese + cxfl's Annoyance list(本人维护)
 > ${\color{red}(另外，使用ubo请保留“内置”栏目规则)}$
 
