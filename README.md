@@ -5,7 +5,7 @@
 * 只有 PC 端
 > [!IMPORTANT]  
 > EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + Web Annoyances Ultralist + I don't care about cookies + 乘风 + runningcheese + cxfl's Annoyance list(本人维护) + cxfl自定义规则
-> ${\color{red}(另外，使用AdblockPlus请保留ABPfilters，如果有EasyListChina + EasyList就点击右侧的垃圾桶取消订阅)}$
+> ${\color{red}(另外，使用AdblockPlus请保留`ABP filters`，如果有EasyListChina + EasyList就点击右侧的垃圾桶取消订阅)}$
 
 * 依次复制下面链接，到设置->高级->通过URL添加过滤列表:
 
