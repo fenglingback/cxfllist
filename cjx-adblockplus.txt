@@ -1,12 +1,4 @@
-[Adblock Plus 2.0]
-! Version: 202405041524
-! Title: CJX's AdblockPlus list
-! Last modified: 2024/05/04 15:24 +0800
-! Homepage: https://github.com/cjx82630/cjxlist
-!
-! License: https://github.com/cjx82630/cjxlist/blob/master/LICENSE
-! 这是中文规则的补充,复制内容到自定义(点击ABP图标>齿轮>高级>我的过滤列表下文本框)
-! Email (cjxlist@gmail.com)
+! 这是cjx中文规则的补充,复制内容到自定义(点击ABP图标>齿轮>高级>我的过滤列表下文本框)
 
 ||valipl.cp31.ott.cibntv.net^$media,rewrite=abp-resource:blank-mp3,domain=youku.com
 ||cibntv.net/youku/$media,rewrite=abp-resource:blank-mp3,domain=youku.com
