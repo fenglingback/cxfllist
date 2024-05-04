@@ -57,6 +57,10 @@ dhzw8.com,hkslg8.com,konlan.org,lewxs.com,snwx3.com,sqsxs.com,xtmetb.com#$#abort
 
 
 !------------------------cxfl's rules------------------------!
-
+stackoverflow.com###onetrust-banner-sdk
+stackoverflow.com##.otFloatingRoundedCorner.ot-bottom-left.ot-wo-title.vertical-align-content
+deepl.com##.w-full.bg-white.sm\:px-8.lg\:px-\[70px\]
+deepl.com##.p-8.lg\:px-\[70px\]
+ghxi.com##div[style="padding: 10px; position: fixed; bottom: 0px; left: 0px; right: 0px; z-index: 99; background-color: rgb(204, 68, 68); color: rgb(255, 255, 255); --darkreader-inline-bgcolor: #982a2a; --darkreader-inline-color: #e8e6e3;"]
 unsplash.com##.ehKFX
 
