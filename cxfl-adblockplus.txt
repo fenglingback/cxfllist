@@ -1,0 +1,10 @@
+[Adblock Plus 2.0]
+! Version: 202405041618
+! Title: cxfl's AdblockPlus list
+! Last modified: 2024/05/04 16:18 +0800
+! Homepage: https://github.com/fenglingback/cxfllist
+!
+! 这是本人自用的规则，在互联网冲浪过程中不断进行补充(点击ABP图标>齿轮>高级>我的过滤列表下文本框)
+! Email (fenglinggod@qq.com)
+
+ghxi.com##div[style="padding: 10px; position: fixed; bottom: 0px; left: 0px; right: 0px; z-index: 99; background-color: rgb(204, 68, 68); color: rgb(255, 255, 255); --darkreader-inline-bgcolor: #982a2a; --darkreader-inline-color: #e8e6e3;"]
