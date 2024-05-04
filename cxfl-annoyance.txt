@@ -1,0 +1,12 @@
+[Adblock Plus 2.0]
+! Version: 202405042312
+! Title: cxfl's Annoyance list
+! Last modified: 2024/05/04 23:12 +0800
+! Homepage: https://github.com/fenglingback/cxfllist
+!
+! 这是本人自用的规则，对主流过滤规则的漏网之鱼进行补充
+! Email (fenglinggod@qq.com)
+
+!------------------------cxfl's rules------------------------!
+
+!----------------------------------The End------------------------------------!
