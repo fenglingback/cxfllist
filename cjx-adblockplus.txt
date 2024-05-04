@@ -57,5 +57,5 @@ ruanyifeng.com#$#abort-on-property-read setTimeout;override-property-read checke
 tingfm.com#$#override-property-read canRunAds true
 xianzhenyuan.cn#$#abort-on-property-read ad
 vxetable.cn#$#abort-current-inline-script decodeURIComponent wwads
-!#Novels
+! #Novels
 dhzw8.com,hkslg8.com,konlan.org,lewxs.com,snwx3.com,sqsxs.com,xtmetb.com#$#abort-on-property-read _go
