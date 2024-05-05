@@ -24,7 +24,7 @@
     * [runningcheese's Adblock_Popup](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Popup.txt)
     * [runningcheese's Adblock_Watermark](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Watermark.txt)
     * [cxfl's Annoyance list](https://raw.githubusercontent.com/fenglingback/cxfllist/main/cxfl-annoyance.txt)
-    * [cxfl自定义规则 `<kbd>不能订阅，需打开全选复制添加到自定义过滤列表中</kbd>`](https://raw.githubusercontent.com/fenglingback/cxfllist/main/cxfl自定义规则.txt)
+    * [cxfl自定义规则   `不能订阅，需打开全选复制添加到自定义过滤列表中`](https://raw.githubusercontent.com/fenglingback/cxfllist/main/cxfl自定义规则.txt)
 
 
 
