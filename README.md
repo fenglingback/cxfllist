@@ -4,7 +4,7 @@
 
 * 只有 PC 端
 > [!TIP]  
-> EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + I don't care about cookies + 乘风 + runningcheese + cxfl's Annoyance list(本人维护) + cxfl自定义规则
+> EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + I don't care about cookies + 乘风 + runningcheese + cxfl自定义规则
 
 > [!IMPORTANT]
 > 如果使用AdblockPlus，请保留 `ABP filters` ，如果有EasyListChina + EasyList就点击右侧的垃圾桶 <kbd>取消订阅</kbd>
@@ -22,8 +22,7 @@
     * [乘风小众视频过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/minority-mv.txt)
     * [runningcheese's Adblock_Popup](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Popup.txt)
     * [runningcheese's Adblock_Watermark](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Watermark.txt)
-    * [cxfl's Annoyance list](https://raw.githubusercontent.com/fenglingback/cxfllist/main/cxfl-annoyance.txt)
-    * [cxfl自定义规则  `不能订阅，需打开全选复制添加到自定义过滤列表中`](https://raw.githubusercontent.com/fenglingback/cxfllist/main/cxfl自定义规则.txt)
+    * [cxfl-adblockplus自定义规则  `不能订阅，需打开全选复制添加到自定义过滤列表中`](https://raw.githubusercontent.com/fenglingback/cxfllist/main/cxfl-adblockplus自定义.txt)
 
 
 
@@ -34,7 +33,7 @@
 * PC 端 and 移动端
 
 > [!TIP]
-> EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + CJX's ublock origin list + 乘风 + Web Annoyances Ultralist + I don't care about cookies + runningcheese + cxfl's Annoyance list(本人维护)
+> EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + CJX's ublock list + 乘风 + Web Annoyances Ultralist + I don't care about cookies + runningcheese + cxfl's ublock list
 
 > [!IMPORTANT]
 > 如果使用ubo，请保留 `内置` 栏目规则
@@ -54,7 +53,8 @@
     * [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/abp/)
     * [runningcheese's Adblock_Popup](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Popup.txt)
     * [runningcheese's Adblock_Watermark](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Watermark.txt)
-    * [cxfl's Annoyance list](https://raw.githubusercontent.com/fenglingback/cxfllist/main/cxfl-annoyance.txt)
+    * [cxfl's ublock list](https://raw.githubusercontent.com/fenglingback/cxfllist/main/cxfl-ublock.txt)
+
 
 * 一键复制导入：
 
@@ -71,5 +71,5 @@ https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralis
 https://www.i-dont-care-about-cookies.eu/abp/
 https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Popup.txt
 https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Watermark.txt
-https://raw.githubusercontent.com/fenglingback/cxfllist/main/cxfl-annoyance.txt
+https://raw.githubusercontent.com/fenglingback/cxfllist/main/cxfl-ublock.txt
 ```
