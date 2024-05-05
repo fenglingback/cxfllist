@@ -10,12 +10,13 @@
 > 如果使用AdblockPlus，请保留 `ABP filters` ，如果有EasyListChina + EasyList就点击右侧的垃圾桶 <kbd>取消订阅</kbd>
 
 
-* 依次复制下面链接，到设置->高级->通过URL添加过滤列表:
+* 依次右键复制下面链接地址，到设置->高级->通过URL添加过滤列表:
 
-    * [EasyList](https://easylist-downloads.adblockplus.org/easylist.txt)
-    * [EasyList China](https://easylist-downloads.adblockplus.org/easylistchina.txt)
-    * [EasyPrivacy](https://easylist-downloads.adblockplus.org/easyprivacy.txt)
-    * [CJX's Annoyance List](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)
+    * [DuckDuckGo Tracker Radar (Vivaldi内置) ](https://downloads.vivaldi.com/ddg/tds-v2-current.json)
+    * [EasyList (Vivaldi内置) ](https://easylist-downloads.adblockplus.org/easylist.txt)
+    * [EasyList China (Vivaldi内置) ](https://easylist-downloads.adblockplus.org/easylistchina.txt)
+    * [EasyPrivacy (Vivaldi内置) ](https://easylist-downloads.adblockplus.org/easyprivacy.txt)
+    * [CJX's Annoyance List (Vivaldi内置) ](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)
     * [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/abp/)
     * [乘风广告过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
     * [乘风视频过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt)
@@ -39,7 +40,7 @@
 > 如果使用ubo，请保留 `内置` 栏目规则
 
 
-* 依次复制下面链接，导入:
+* 依次右键复制下面链接地址，导入:
 
     * [EasyList](https://easylist-downloads.adblockplus.org/easylist.txt)
     * [EasyList China](https://easylist-downloads.adblockplus.org/easylistchina.txt)
