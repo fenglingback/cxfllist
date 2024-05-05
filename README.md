@@ -22,7 +22,7 @@
     * [乘风小众视频过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/minority-mv.txt)
     * [runningcheese's Adblock_Popup](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Popup.txt)
     * [runningcheese's Adblock_Watermark](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Watermark.txt)
-    * [cxfl-adblockplus自定义规则  `不能订阅，需打开全选复制添加到自定义过滤列表中`](https://raw.githubusercontent.com/fenglingback/cxfllist/main/cxfl-adblockplus自定义.txt)
+    * [cxfl-adblockplus自定义规则  `不能订阅，需打开全选复制添加到自定义过滤列表中`](https://raw.githubusercontent.com/fenglingback/cxfllist/main/cxfl-adblockplus.txt)
 
 
 
