@@ -11,5 +11,5 @@
 yandex.com##.AdvRsyaCrossPage
 yandex.com##.ImagesViewer-SidebarAdv
 yandex.com##[class*="-Incut"]
-
+https://yandex.com/images/search?family=yes*
 !----------------------------------The End------------------------------------!
