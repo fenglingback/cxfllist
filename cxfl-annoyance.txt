@@ -8,5 +8,5 @@
 ! Email (fenglinggod@qq.com)
 
 !------------------------cxfl's rules------------------------!
-https://yandex.com/images/search?family=yes*
+||yandex.com/images/search?family=yes
 !----------------------------------The End------------------------------------!
