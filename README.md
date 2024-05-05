@@ -4,7 +4,7 @@
 
 * 只有 PC 端
 > [!TIP]  
-> EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + Web Annoyances Ultralist + I don't care about cookies + 乘风 + runningcheese + cxfl's Annoyance list(本人维护) + cxfl自定义规则
+> EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + I don't care about cookies + 乘风 + runningcheese + cxfl's Annoyance list(本人维护) + cxfl自定义规则
 
 > [!IMPORTANT]
 > 如果使用AdblockPlus，请保留 `ABP filters` ，如果有EasyListChina + EasyList就点击右侧的垃圾桶 <kbd>取消订阅</kbd>
@@ -16,7 +16,6 @@
     * [EasyList China](https://easylist-downloads.adblockplus.org/easylistchina.txt)
     * [EasyPrivacy](https://easylist-downloads.adblockplus.org/easyprivacy.txt)
     * [CJX's Annoyance List](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)
-    * [Web Annoyances Ultralist](https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt)
     * [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/abp/)
     * [乘风广告过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
     * [乘风视频过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt)
