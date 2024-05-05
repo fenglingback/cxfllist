@@ -1,0 +1,17 @@
+[uBlock Origin]
+! Title: cxfl's uBlock list
+! Homepage: https://github.com/fenglingback/cxfllist
+! 
+! 这是本人自用的静态规则，在互联网冲浪过程中不断进行补充 (对应cxfl-adblockplus自定义.txt中的cxfl's rules部分)
+! Filters optimized for uBlock
+! Email (fenglinggod@qq.com)
+
+stackoverflow.com###onetrust-banner-sdk
+stackoverflow.com##.otFloatingRoundedCorner.ot-bottom-left.ot-wo-title.vertical-align-content
+deepl.com##.w-full.bg-white.sm\:px-8.lg\:px-\[70px\]
+deepl.com##.p-8.lg\:px-\[70px\]
+ghxi.com##div[style="padding: 10px; position: fixed; bottom: 0px; left: 0px; right: 0px; z-index: 99; background-color: rgb(204, 68, 68); color: rgb(255, 255, 255); --darkreader-inline-bgcolor: #982a2a; --darkreader-inline-color: #e8e6e3;"]
+unsplash.com##.ehKFX
+yandex.com##.AdvRsyaCrossPage
+yandex.com##.ImagesViewer-SidebarAdv
+yandex.com##[class*="-Incut"]
