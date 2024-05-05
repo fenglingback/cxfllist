@@ -7,7 +7,8 @@
 > EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + Web Annoyances Ultralist + I don't care about cookies + 乘风 + runningcheese + cxfl's Annoyance list(本人维护) + cxfl自定义规则
 
 > [!IMPORTANT]
-> 如果使用AdblockPlus，请保留`ABP filters`，如果有EasyListChina + EasyList就点击右侧的垃圾桶取消订阅
+> 如果使用AdblockPlus，请保留 `ABP filters` ，如果有EasyListChina + EasyList就点击右侧的垃圾桶 <kbd>取消订阅</kbd>
+
 
 * 依次复制下面链接，到设置->高级->通过URL添加过滤列表:
 
@@ -33,9 +34,11 @@
 
 * PC 端 and 移动端
 
-> [!IMPORTANT]
+> [!TIP]
 > EasyList + Easylist China + EasyPrivacy + CJX's Annoyance List + CJX's ublock origin list + 乘风 + Web Annoyances Ultralist + I don't care about cookies + runningcheese + cxfl's Annoyance list(本人维护)
-> ${\color{red}(另外，使用ubo请保留 "内置" 栏目规则)}$
+
+> [!IMPORTANT]
+> 如果使用ubo，请保留 `内置` 栏目规则
 
 
 * 依次复制下面链接，导入:
