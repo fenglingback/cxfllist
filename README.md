@@ -44,7 +44,7 @@
 * :star2: [EasyList (Vivaldi内置) ](https://easylist-downloads.adblockplus.org/easylist.txt)
 * :star2: [EasyList China (Vivaldi内置) ](https://easylist-downloads.adblockplus.org/easylistchina.txt)
 * :star2: [EasyPrivacy (Vivaldi内置) ](https://easylist-downloads.adblockplus.org/easyprivacy.txt)
-* :star2: [DuckDuckGo Tracker Radar (Vivaldi内置) ](https://downloads.vivaldi.com/ddg/tds-v2-current.json)
+* :star2: [DuckDuckGo Tracker Radar `Vivaldi内置，且ABP无法添加` ](https://downloads.vivaldi.com/ddg/tds-v2-current.json)
 * :star2: [Adblock Warning Removal List (Vivaldi内置)](https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt)
 * [Malicious URL blocklist `只能Vivaldi用，ABP无法添加 (添加到Vivaldi中的跟踪器列表)`](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-vivaldi.txt)
 * :star2: [CJX's Annoyance List (Vivaldi内置) ](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)
