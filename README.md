@@ -2,8 +2,9 @@
 
 <h3 align="center">⚡️The most complete and useful rule-list of ad and tracking for Chinese babies⚡️</h3>
 
-### 适合中国宝宝体质的最全、最有效的 <code style="color: red">广告</code> 和 <code style="color: green">隐私</code> 规则列表
+<h3 align="center">适合中国宝宝体质的最全、最有效的广告和隐私规则列表</h3>
 
+#FFD700
 
 ## 涉及的规则说明
 > [!TIP]  
