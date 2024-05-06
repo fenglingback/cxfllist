@@ -1,6 +1,6 @@
 <h1 align="center">cxfllist</h1>
 
-<h3 align="center">⚡️The most complete and useful rule-list of ad and tracking for Chinese babies⚡️</h3>
+<h3 align="center">⚡️The most complete and useful rule-list of ad and tracking for Chinese babies.⚡️</h3>
 
 ### $${适合中国宝宝体质、最全、最有效的\ {\color{red}广告} \ {\color{lightblue}和} \ {\color{green}隐私}\ 规则列表}$$
 
