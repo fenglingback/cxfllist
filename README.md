@@ -2,8 +2,8 @@
 
 <h3 align="center">⚡️The most complete and useful rule-list of ad and tracking for Chinese babies⚡️</h3>
 
-适合中国宝宝体质的最全、最有效的$${\color{red}广告 \space \color{lightblue}和 \space \color{green}隐私}$$规则列表
-<br>
+<h3 align="center">适合中国宝宝体质的最全、最有效的${{\color{red}广告\ \color{lightblue}和 \ \color{green}隐私}}$规则列表</h3>
+
 
 ${{\color{Goldenrod}\Huge{\textsf{  Hi\ there\ \}}}}\$
 
