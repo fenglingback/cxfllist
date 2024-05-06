@@ -2,10 +2,11 @@
 
 <h3 align="center">⚡️The most complete and useful rule-list of ad and tracking for Chinese babies⚡️</h3>
 
-<h3 align="center">适合中国宝宝体质的最全、最有效的${{\color{red}广告\ \color{lightblue}和 \ \color{green}隐私}}$规则列表</h3>
+<h3 align="center">适合中国宝宝体质的最全、最有效的广告和隐私规则列表</h3>
 
+#0f0[This is green text]
 
-${{\color{Goldenrod}\Huge{\textsf{  Hi\ there\ \}}}}\$
+#7fffff00[This is yellow text at 50% opacity]
 
 ## 涉及的规则说明
 > [!TIP]  
