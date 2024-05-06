@@ -95,7 +95,7 @@
 19. :star2: [cxfl's ublock list](https://raw.githubusercontent.com/fenglingback/cxfllist/main/cxfl-ublock.txt)
 
 
-### 一键复制导入：
+### 或者一键复制导入：
 
 ```
 https://easylist-downloads.adblockplus.org/easylist.txt
