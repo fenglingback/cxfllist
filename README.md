@@ -2,9 +2,10 @@
 
 <h3 align="center">⚡️The most complete and useful rule-list of ad and tracking for Chinese babies⚡️</h3>
 
-<h3 align="center">适合中国宝宝体质的最全、最有效的广告和隐私规则列表</h3>
+$${适合中国宝宝体质的最全、最有效的 广告和隐私 规则列表}$$
 
-`#FFD700`
+
+
 
 ## 涉及的规则说明
 > [!TIP]  
