@@ -16,7 +16,9 @@
 $${{\color{#FF00FF}因此，如果想要\ {\color{red}充分地满足自定义的需求}，你需要\ {\color{yellow}自己写规则}，或者\ {\color{yellow}给我提issue}}}$$
 
 
-
+$${👇}$$
+$${👇}$$
+$${👇}$$
 
 
 ## 涉及的规则介绍
@@ -46,7 +48,9 @@ $${{\color{#FF00FF}因此，如果想要\ {\color{red}充分地满足自定义�
 > [!WARNING]  
 > `Peter Lowe's Ad and tracking server list` 和 `oisd big` 已经被我淘汰了，因为 `hagezi pro` 更强更高效，详情请看👉[①](https://github.com/hagezi/dns-blocklists/issues/2346#:~:text=There%20is%20also%20Peter%20Lowe%27s%20Ad%20and%20tracking%20list%20if%20someone%20really%20only%20wants%20to%20block%20ads%20and%20tracking.) [②](https://www.reddit.com/r/nextdns/comments/192mdeh/why_should_i_use_hagezi_in_place_of_oisd/)👈，不过我本人用 `hagezi pro++` :joy:
 
-
+$${👇}$$
+$${👇}$$
+$${👇}$$
 
 
 ## 从DNS上过滤（锦上添花）
@@ -63,6 +67,10 @@ $${{\color{#FF00FF}因此，如果想要\ {\color{red}充分地满足自定义�
 >
 > 那么此时，上一节的规则集中的 `hagezi pro` 可以不添加了，因为这个规则集已经在dns服务器上部署了。
 
+
+$${👇}$$
+$${👇}$$
+$${👇}$$
 
 
 ## AdblockPlus `ABP` (本人只为了给 Vivaldi 用，不用 Vivaldi 只建议用下面的ubo)
@@ -96,7 +104,9 @@ $${{\color{#FF00FF}因此，如果想要\ {\color{red}充分地满足自定义�
 * :star2: [cxfl-adblockplus自定义规则  `不能订阅，需打开全选复制添加到自定义过滤列表中 (Vivaldi不能用)`](https://raw.githubusercontent.com/fenglingback/cxfllist/main/cxfl-adblockplus.txt)
 
 
-
+$${👇}$$
+$${👇}$$
+$${👇}$$
 
 
 ## uBlock Origin `ubo`
