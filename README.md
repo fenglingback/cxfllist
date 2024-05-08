@@ -1,6 +1,6 @@
 # $${\color{#00FFFF}cxfllist}$$
 
-<h3 align="center">⚡️The most complete and useful rule-list of Ad and tracking for Chinese babies.⚡️</h3>
+<h3 align="center">⚡️The most complete and useful rule-list of Ad and tracking for Chinese babies.⚡️</h3>  
 
 ### $${适合中国宝宝体质、最全、最有效的\ {\color{red}广告} \ {\color{lightblue}和} \ {\color{green}隐私}\ 规则集}$$
 
@@ -11,7 +11,7 @@
 
 ## 说在前面
 > [!WARNING]  
-> 所谓的主流订阅规则集，只能尽全力帮助你屏蔽广告和跟踪，但不能绝对、百分百屏蔽。
+> 所谓的主流订阅规则集，只能尽全力帮助你屏蔽广告和跟踪，但不能绝对、百分百屏蔽。  
 
 ### $${{\color{#FF00FF}因此，如果想要\ {\color{red}充分地满足自定义的需求}，你需要\ {\color{yellow}自己写规则}，或者\ {\color{yellow}给我提issue}}}$$
 
