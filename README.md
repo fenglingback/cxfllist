@@ -1,8 +1,8 @@
 # $${\color{#00FFFF}cxfllist}$$
 
-<h3 align="center">⚡️The most complete and useful rule-list of Ad and tracking for Chinese babies.⚡️</h3>  
+<h3 align="center">⚡️The most complete and useful rule-list of Ad and tracking for Chinese babies on the browser.⚡️</h3>  
 
-### $${适合中国宝宝体质、最全、最有效的\ {\color{red}广告} \ {\color{lightblue}和} \ {\color{green}隐私}\ 规则集}$$
+### $${浏览器上最适合中国宝宝体质、最全、最有效的\ {\color{red}广告} \ {\color{lightblue}和} \ {\color{green}隐私}\ 规则集}$$
 
 <br>
 
@@ -41,14 +41,15 @@ $${👇}$$
 > `runningcheese's Adblock_Popup`：<i>属于网页弹窗过滤规则的补充</i>  
 > `runningcheese's Adblock_Watermark`：<i>去除国内网页水印的规则，包括AI、文档、设计等平台</i>  
 > ~~`oisd big`：<i>阻止广告、(Mobile) 应用程序广告、网络钓鱼、恶意广告、恶意软件、间谍软件、勒索软件、加密劫持、诈骗、...遥测/分析/跟踪（正常功能不需要时）</i>~~  
-> `hagezi pro`：<i>阻止广告、联盟、跟踪、指标、遥测、网络钓鱼、恶意软件、诈骗、假货、硬币和其他 "垃圾"</i>  
+> ~~`hagezi pro`：<i>阻止广告、联盟、跟踪、指标、遥测、网络钓鱼、恶意软件、诈骗、假货、硬币和其他 "垃圾"</i>~~
+> `hagezi pro mini`：<i>针对网络浏览器优化的 Hagezi Pro DNS 阻止列表的较小版本（78k 与 159k 规则）。简化的列表排除了与网页浏览无关的规则，例如阻止物联网跟踪和设备遥测的规则。此迷你版本可阻止与广告、跟踪、分析和恶意软件相关的域。</i>  
 > `oisd nsfw`：<i>最全的 <kbd>色情、惊悚、成人</kbd> 规则集</i>  
 > `CJX's ublock list`：<i>对 easylist + easylistchina + easyprivacy + cjx's Annoyance List的补充</i>  
-> `cxfl's ublock list`：本人维护，对以上所有规则集的补充，请在添加完以上主流订阅规则后再添加  
+> `cxfl's ublock list`：本人维护，对以上所有规则集的补充，主要为屏蔽网页烦人元素，请在添加完以上主流订阅规则后再添加  
 > `cxfl-adblockplus自定义规则`：本人维护，等同于 <kbd>cjx补充</kbd> + <kbd>cxfl's ublock list</kbd>
 
 > [!WARNING]  
-> `Peter Lowe's Ad and tracking server list` 和 `oisd big` 已经被我淘汰了，因为 `hagezi pro` 更强更高效，详情请看👉[①](https://github.com/hagezi/dns-blocklists/issues/2346#:~:text=There%20is%20also%20Peter%20Lowe%27s%20Ad%20and%20tracking%20list%20if%20someone%20really%20only%20wants%20to%20block%20ads%20and%20tracking.) [②](https://www.reddit.com/r/nextdns/comments/192mdeh/why_should_i_use_hagezi_in_place_of_oisd/)👈，不过我本人用 `hagezi pro++` :joy:
+> `Peter Lowe's Ad and tracking server list` 和 `oisd big` 已经被我淘汰了，因为 `hagezi pro` 更强更高效，详情请看👉[①](https://github.com/hagezi/dns-blocklists/issues/2346#:~:text=There%20is%20also%20Peter%20Lowe%27s%20Ad%20and%20tracking%20list%20if%20someone%20really%20only%20wants%20to%20block%20ads%20and%20tracking.) [②](https://www.reddit.com/r/nextdns/comments/192mdeh/why_should_i_use_hagezi_in_place_of_oisd/)👈。然后，它的mini版本 `hagezi pro mini` 更适合在浏览器上使用。不过我本人用 `hagezi pro++` :joy:
 
 $${👇}$$
 
@@ -72,7 +73,7 @@ $${👇}$$
 > [!IMPORTANT]  
 > DoT/DoH和DoH这两种解析方式任选其一，理论上DoT/DoQ会比DoH快，`只是理论上`:sweat_smile:  
 >
-> 那么此时，下面提及的 `hagezi pro` 可以不添加了，因为这个规则集已经在dns服务器上部署了。
+> 那么此时，下面提及的 ~~`hagezi pro`~~ `hagezi pro mini` 可以不添加了，因为这个规则集已经在dns服务器上部署了。
 
 
 $${👇}$$
@@ -91,7 +92,7 @@ $${👇}$$
 > :star2: 为 `必用规则` ，强烈推荐使用。如果使用AdblockPlus，请保留 `ABP filters` 。如果有EasyListChina + EasyList，就点击右侧的垃圾桶 <kbd>取消订阅</kbd> 。
 
 
-### 依次右键复制下面链接地址，到设置->高级->通过URL添加过滤列表:
+### 选择你需要的规则集，然后右键复制它的链接地址，到设置->高级->通过URL添加过滤列表:
 
 * :star2: [EasyList (Vivaldi内置) ](https://easylist-downloads.adblockplus.org/easylist.txt)
 * :star2: [EasyList China (Vivaldi内置) ](https://easylist-downloads.adblockplus.org/easylistchina.txt)
@@ -105,10 +106,11 @@ $${👇}$$
 * :star2: [乘风广告过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 * :star2: [乘风视频过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt)
 * [乘风小众视频过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/minority-mv.txt)
-* [runningcheese's Adblock_Popup](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Popup.txt)
+* [:star2: runningcheese's Adblock_Popup](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Popup.txt)
 * :star2: [runningcheese's Adblock_Watermark](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Watermark.txt)
 * ~~[oisd big](https://big.oisd.nl/)~~
-* [hagezi pro](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt)
+* ~~[hagezi pro](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt)~~
+* [hagezi pro mini](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt)
 * [oisd nsfw](https://nsfw.oisd.nl/)
 * :star2: [cxfl-adblockplus自定义规则  `不能订阅，需打开全选复制添加到自定义过滤列表中 (Vivaldi不能用)`](https://raw.githubusercontent.com/fenglingback/cxfllist/main/cxfl-adblockplus.txt)
 
@@ -129,7 +131,7 @@ $${👇}$$
 > :star2: 为 `必用规则` ，强烈推荐使用。如果使用ubo，`取消所有初始订阅规则` 的同时，保留 `内置` 栏目规则
 
 
-### 依次右键复制下面链接地址，导入:
+### 选择你需要的规则集，然后右键复制它的链接地址，导入:
 
 1. :star2: [EasyList](https://easylist-downloads.adblockplus.org/easylist.txt)
 2. :star2: [EasyList China](https://easylist-downloads.adblockplus.org/easylistchina.txt)
@@ -145,15 +147,38 @@ $${👇}$$
 12. [乘风小众视频过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/minority-mv.txt)
 13. :star2: [Web Annoyances Ultralist](https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt)
 14. [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/abp/)
-15. [runningcheese's Adblock_Popup](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Popup.txt)
+15. [:star2: runningcheese's Adblock_Popup](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Popup.txt)
 16. :star2: [runningcheese's Adblock_Watermark](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Watermark.txt)
 17. ~~[oisd big](https://big.oisd.nl/)~~
-18. [hagezi pro](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt)
-19. [oisd nsfw](https://nsfw.oisd.nl/)
-20. :star2: [cxfl's ublock list](https://raw.githubusercontent.com/fenglingback/cxfllist/main/cxfl-ublock.txt)
+18. ~~[hagezi pro](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt)~~
+19. [hagezi pro mini](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt)
+20. [oisd nsfw](https://nsfw.oisd.nl/)
+21. :star2: [cxfl's ublock list](https://raw.githubusercontent.com/fenglingback/cxfllist/main/cxfl-ublock.txt)
 
 
-### 或者一键复制导入：
+### 一键复制必用规则集，导入：
+
+```
+https://easylist-downloads.adblockplus.org/easylist.txt
+https://easylist-downloads.adblockplus.org/easylistchina.txt
+https://easylist-downloads.adblockplus.org/easyprivacy.txt
+https://downloads.vivaldi.com/ddg/tds-v2-current.json
+https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt
+https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
+https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
+https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
+https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Popup.txt
+https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Watermark.txt
+https://raw.githubusercontent.com/fenglingback/cxfllist/main/cxfl-ublock.txt
+```
+
+
+
+
+
+### 或者一键复制全部，导入：
 
 ```
 https://easylist-downloads.adblockplus.org/easylist.txt
@@ -171,7 +196,7 @@ https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralis
 https://www.i-dont-care-about-cookies.eu/abp/
 https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Popup.txt
 https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Watermark.txt
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt
+https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt
 https://nsfw.oisd.nl/
 https://raw.githubusercontent.com/fenglingback/cxfllist/main/cxfl-ublock.txt
 ```
