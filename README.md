@@ -84,7 +84,7 @@ $${👇}$$
 $${👇}$$
 
 
-$${现在，请选择你的过滤器，我只推荐uBlock Origin(ubo)}$$
+## $${现在，请选择你的过滤器，我只推荐uBlock \ Origin(ubo)}$$
 
 $$ubo用户请继续往下看$$
 
@@ -109,16 +109,12 @@ $${👇}$$
 
 
 
-## uBlock Origin `ubo` （PC 端 and 移动端）
-
-
-
-### 基础版
+## 基础版
 
 > [!IMPORTANT]  
-> 这个版本适合 `只浏览国内网站`，或者 `很少时间` 浏览国外网站，或者 `对跟踪隐私方面没啥感觉` 的宝宝，已然非常够用了！
+> 这个版本适合 `只浏览国内网站`，或者 `很少时间` 浏览国外网站，或者 `对跟踪隐私方面没啥感觉` 的宝宝，已经非常够用了！
 
-$${保留\ {\color{lightgreen}
+### $${保留\ {\color{lightgreen}
 初始状态的默认规则} + 导入\ {\color{lightgreen}国内必备规则：}}$$
 
 > [!TIP]  
@@ -127,7 +123,7 @@ $${保留\ {\color{lightgreen}
 
 
 
-#### 国内必备规则一键复制导入：
+### 国内必备规则一键复制导入：
 
 ```
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
@@ -143,7 +139,7 @@ https://raw.githubusercontent.com/fenglingback/cxfllist/main/rules/cxfl-ublock.t
 
 
 
-#### 你也可以选择其中的一些，右键复制链接地址，导入：
+### 你也可以选择其中的一些，右键复制链接地址，导入：
 
 * [CJX's Annoyance List](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)
 * [CJX's ublock list](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt)
@@ -169,7 +165,7 @@ $${👇}$$
 $${👇}$$
 
 
-### 增强版
+## 增强版
 
 
 * :star2: [Adblock Warning Removal List](https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt)
