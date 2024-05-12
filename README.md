@@ -154,9 +154,6 @@ https://raw.githubusercontent.com/fenglingback/cxfllist/main/rules/cxfl-ublock.t
 
 
 
-
-
-
 $${👇}$$
 
 $${👇}$$
@@ -165,6 +162,11 @@ $${👇}$$
 
 
 ## 增强版
+
+> [!IMPORTANT]  
+> 如果你跟我一样，`经常浏览国外平台，查阅国外新闻、资料等`，或者你 `对跟踪隐私非常敏感`，那么这个版本也许更适合你（说白了，就是国内+国外的使用习惯）。
+
+
 
 
 * :star2: [Adblock Warning Removal List](https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt)
