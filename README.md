@@ -121,18 +121,7 @@ $${👇}$$
 #### 保留 `默认规则` + 导入 `国内必备规则`：
 
 > [!TIP]  
-> 
-
-
-* [CJX's Annoyance List](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)
-* [CJX's ublock list](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt)
-* [乘风广告过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
-* [乘风视频过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt)
-* [乘风小众视频过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/minority-mv.txt)
-* [runningcheese's Adblock_Popup](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Popup.txt)
-* [runningcheese's Adblock_Watermark](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Watermark.txt)
-* [cxfl's ublock list](https://raw.githubusercontent.com/fenglingback/cxfllist/main/rules/cxfl-ublock.txt)
-
+> ![](https://raw.githubusercontent.com/fenglingback/cxfllist/main/images/%E5%9F%BA%E7%A1%80%E7%89%88.png)
 
 
 
@@ -149,6 +138,26 @@ https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Res
 https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Watermark.txt
 https://raw.githubusercontent.com/fenglingback/cxfllist/main/rules/cxfl-ublock.txt
 ```
+
+
+
+
+#### 你也可以选择其中的一些，右键复制链接地址，导入：
+
+* [CJX's Annoyance List](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)
+* [CJX's ublock list](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt)
+* [乘风广告过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
+* [乘风视频过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt)
+* [乘风小众视频过滤规则](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/minority-mv.txt)
+* [runningcheese's Adblock_Popup](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Popup.txt)
+* [runningcheese's Adblock_Watermark](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Watermark.txt)
+* [cxfl's ublock list](https://raw.githubusercontent.com/fenglingback/cxfllist/main/rules/cxfl-ublock.txt)
+
+
+
+
+
+
 
 
 
