@@ -3,6 +3,10 @@
 ## 只有 PC 端
 
 
+> [!TIP]  
+> `cxfl-adblockplus自定义规则`：本人维护，等同于 <kbd>cjx补充</kbd> + <kbd>cxfl's ublock list</kbd>
+
+
 > [!IMPORTANT]  
 > :star2: 为 `必用规则` ，强烈推荐使用。如果使用AdblockPlus，请保留 `ABP filters` 。如果有EasyListChina + EasyList，就点击右侧的垃圾桶 <kbd>取消订阅</kbd> 。
 

@@ -24,30 +24,6 @@ $${👇}$$
 
 
 ## 涉及的规则介绍
-> [!TIP]  
-> `EasyList`：<i>最主流的国际网站的广告过滤规则</i>  
-> `Easylist China`：<i>最主流的国内网站的广告过滤规则</i>  
-> `EasyPrivacy`：<i>最主流的反跟踪规则</i>  
-> `CJX's Annoyance List`：<i><kbd>easylist china</kbd> 的补充，主要屏蔽页面上烦人的元素</i>  
-> ~~`DuckDuckGo Tracker Radar`：<i>也是一个反跟踪规则，精简但高效，甚至能屏蔽一些网站的指纹识别</i>~~  
-> `Adblock Warning Removal List`：<i>某些网站会检测到用户使用了广告拦截器，并显示警告信息，要求用户禁用广告拦截器才能继续访问网站内容，此规则就是用于去除这些警告</i>  
-> `Malicious URL blocklist`：<i>用于阻止访问恶意或危险网站的列表，加强网络安全</i>  
-> ~~`Peter Lowe's Ad and tracking server list`：<i>只包含广告和跟踪服务器主机的拦截列表</i>~~  
-> `Web Annoyances Ultralist`：<i>又一个屏蔽页面上烦人元素的规则集</i>  
-> `I don't care about cookies`：<i>对列表中的网站采取最少cookie允许策略，屏蔽弹出的cookie接受窗口</i>  
-> `乘风广告过滤规则`：<i>国内网站广告过滤规则的后起之秀</i>  
-> `乘风视频过滤规则`：<i>国内视频网站的广告过滤规则</i>  
-> `乘风小众视频过滤规则`：<i>国内小众视频网站的广告过滤规则</i>  
-> `runningcheese's Adblock_Popup`：<i>属于网页弹窗过滤规则的补充</i>  
-> `runningcheese's Adblock_Watermark`：<i>去除国内网页水印的规则，包括AI、文档、设计等平台</i>  
-> ~~`oisd big`：<i>阻止广告、(Mobile) 应用程序广告、网络钓鱼、恶意广告、恶意软件、间谍软件、勒索软件、加密劫持、诈骗、...遥测/分析/跟踪（正常功能不需要时）</i>~~  
-> ~~`hagezi pro`：<i>阻止广告、联盟、跟踪、指标、遥测、网络钓鱼、恶意软件、诈骗、假货、硬币和其他 "垃圾"</i>~~
-> `hagezi pro mini`：<i>针对网络浏览器优化的 Hagezi Pro DNS 阻止列表的较小版本（78k 与 159k 规则）。简化的列表排除了与网页浏览无关的规则，例如阻止物联网跟踪和设备遥测的规则。此迷你版本可阻止与广告、跟踪、分析和恶意软件相关的域。</i>  
-> `oisd nsfw`：<i>最全的 <kbd>色情、惊悚、成人</kbd> 规则集</i>  
-> `yoko`
-> `CJX's ublock list`：<i>对 easylist + easylistchina + easyprivacy + cjx's Annoyance List的补充</i>  
-> `cxfl's ublock list`：本人维护，对以上所有规则集的补充，主要为屏蔽网页烦人元素，请在添加完以上主流订阅规则后再添加  
-> `cxfl-adblockplus自定义规则`：本人维护，等同于 <kbd>cjx补充</kbd> + <kbd>cxfl's ublock list</kbd>
 
 > [!WARNING]  
 > `Peter Lowe's Ad and tracking server list`、`oisd big`、`DuckDuckGo Tracker Radar` 已经被淘汰了，因为 `hagezi pro` 更强更高效，详情请看👉[①](https://github.com/hagezi/dns-blocklists/issues/2346#:~:text=There%20is%20also%20Peter%20Lowe%27s%20Ad%20and%20tracking%20list%20if%20someone%20really%20only%20wants%20to%20block%20ads%20and%20tracking.) [②](https://www.reddit.com/r/nextdns/comments/192mdeh/why_should_i_use_hagezi_in_place_of_oisd/)👈。然后，它的mini版本 `hagezi pro mini` 更适合在浏览器上使用。不过我本人用 `hagezi pro++` :joy:
@@ -118,6 +94,25 @@ $${👇}$$
 
 > [!TIP]  
 > ![](https://raw.githubusercontent.com/fenglingback/cxfllist/main/images/%E5%9F%BA%E7%A1%80%E7%89%88.png)
+>  
+> 初始状态的默认规则：  
+> `内置`：<i>ubo自己最核心的规则集</i>  
+> `EasyList`：<i>最主流的国际网站的广告过滤规则</i>  
+> `EasyPrivacy`：<i>最主流的反跟踪规则</i>  
+> `Online Malicious URL blocklist`：<i>用于阻止访问恶意或危险网站的列表，加强网络安全</i>  
+> `Peter Lowe's Ad and tracking server list`：<i>只包含广告和跟踪服务器 `主机` 的拦截列表</i>  
+> `AdGuard Chinese（中文）`：<i>`Easylist China` 的改良版本，最主流的国内网站的广告过滤规则</i>  
+>  
+> 国内必备规则：  
+> `CJX's Annoyance List`：<i><kbd>easylist china</kbd> 的补充，主要屏蔽国内网站页面上烦人的元素</i>  
+> `CJX's ublock list`：<i>对 Easylist + Easylist China + Easyprivacy + cjx's Annoyance List的补充</i>  
+> `乘风广告过滤规则`：<i>国内网站广告过滤规则的后起之秀</i>  
+> `乘风视频过滤规则`：<i>国内视频网站的广告过滤规则</i>  
+> `乘风小众视频过滤规则`：<i>国内小众视频网站的广告过滤规则</i>  
+> `runningcheese's Adblock_Popup`：<i>属于网页弹窗过滤规则的补充</i>  
+> `runningcheese's Adblock_Watermark`：<i>去除国内网页水印的规则，包括AI、文档、设计等平台</i>  
+> `cxfl's ublock list`：本人维护，对所有规则集的补充，主要为屏蔽网页烦人元素，请在添加完所有订阅规则后再添加  
+
 
 
 
@@ -161,18 +156,48 @@ $${👇}$$
 $${👇}$$
 
 
+
+
 ## 增强版
 
 > [!IMPORTANT]  
-> 如果你跟我一样，`经常浏览国外平台，查阅国外新闻、资料等`，或者你 `对跟踪隐私非常敏感`，那么这个版本也许更适合你（说白了，就是国内+国外的使用习惯）。
+> 如果你跟我一样，`经常浏览国外平台，查阅国外新闻、资料等`，或者你 `对跟踪隐私非常敏感`，那么这个版本也许更适合你（说白了，就是 `国内` + `国外` 的使用习惯）。
+
+
+### $${设置\ {\color{lightgreen}基础版中的所有规则} + 选择性导入\ {\color{lightgreen}以下不同类目的规则：}}$$
+
+
+
+> ### cookie  
+> `Easylist cookie` 与 `I don't care about cookies`：<i>对列表中的网站采取最少cookie允许策略，屏蔽弹出的cookie接受窗口</i>。  
+> > [!TIP]  
+> > 自从uBO 能够设置 cookie 和本地/会话存储条目以来，两者的差别目前主要就是网站cookie的接受策略。对于它们两个之间哪个更好，完全看个人的取舍。观看两者的一些讨论👉[①](https://community.brave.com/t/why-is-easylist-cookie-list-included-but-not-i-dont-care-about-cookies/321405) [②](https://community.brave.com/t/feature-request-add-i-dont-care-about-cookies-filter/244984)👈，本人用 Easylist cookie :joy:
+
+
+
+> ### 烦人元素  
+> `Web Annoyances Ultralist`：<i>又一个屏蔽页面上烦人元素的规则集</i>  
+> `yokoffing's Annoyances List`：<i>一个精心策划的列表，捕获了其他维护者错过的麻烦。它还清理了许多网站周围的混乱（例如，相关文章、“阅读更多”等）。</i>  
+> `Browse websites without logging in`：<i>此列表尝试绕过站点上的强制登录。</i>  
+> `Adblock Warning Removal List`：<i>某些网站会检测到用户使用了广告拦截器，并显示警告信息，要求用户禁用广告拦截器才能继续访问网站内容，此规则就是用于去除这些警告</i>  
+ 
+
+ 
+
+> ### 安全  
+ > ~~`oisd big`：<i>阻止广告、(Mobile) 应用程序广告、网络钓鱼、恶意广告、恶意软件、间谍软件、勒索软件、加密劫持、诈骗、...遥测/分析/跟踪（正常功能不需要时）</i>~~  
+> ~~`hagezi pro`：<i>阻止广告、联盟、跟踪、指标、遥测、网络钓鱼、恶意软件、诈骗、假货、硬币和其他 "垃圾"</i>~~  
+> `hagezi pro mini`：<i>针对网络浏览器优化的 Hagezi Pro DNS 阻止列表的较小版本（78k 与 159k 规则）。简化的列表排除了与网页浏览无关的规则，例如阻止物联网跟踪和设备遥测的规则。此迷你版本可阻止与广告、跟踪、分析和恶意软件相关的域。</i>  
+> `oisd nsfw`：<i>最全的 <kbd>色情、惊悚、成人</kbd> 规则集</i>  
+
+
+
+
 
 
 
 
 * :star2: [Adblock Warning Removal List](https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt)
-6. [Malicious URL blocklist `(ubo内置的是精简版，取消之后添加这个)`](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter.txt)
-
-9. ~~[Peter Lowe’s Ad and tracking server list `(ubo内置也有)`](https://pgl.yoyo.org/adservers/serverlist.php?showintro=1&mimetype=plaintext)~~
 
 13. :star2: [Web Annoyances Ultralist](https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt)
 14. [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/abp/)
@@ -182,33 +207,10 @@ $${👇}$$
 19. [hagezi pro mini](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt)
 20. [oisd nsfw](https://nsfw.oisd.nl/)
 21. [yokoffing's Annoyance List](https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt)
+22. [Browse websites without logging in](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt)
 
 
 
 
 
 
-
-
-### 或者一键复制全部，导入：
-
-```
-https://easylist-downloads.adblockplus.org/easylist.txt
-https://easylist-downloads.adblockplus.org/easylistchina.txt
-https://easylist-downloads.adblockplus.org/easyprivacy.txt
-https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt
-https://malware-filter.gitlab.io/malware-filter/urlhaus-filter.txt
-https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
-https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt
-https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
-https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
-https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/minority-mv.txt
-https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
-https://www.i-dont-care-about-cookies.eu/abp/
-https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Popup.txt
-https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Watermark.txt
-https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt
-https://nsfw.oisd.nl/
-https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
-https://raw.githubusercontent.com/fenglingback/cxfllist/main/cxfl-ublock.txt
-```

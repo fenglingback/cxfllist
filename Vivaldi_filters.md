@@ -1,5 +1,10 @@
 # Vivaldi-filter
 
+
+> [!TIP]  
+> ~~`DuckDuckGo Tracker Radar`：<i>也是一个反跟踪规则，精简但高效，甚至能屏蔽一些网站的指纹识别</i>~~  
+
+
 > [!IMPORTANT]  
 > 勾选EasyList、EasyPrivacy、EasyList China、DuckDuckGo Tracker Radar、Adblock Warning Removal List、CJX's Annoyance List。它们和:star2:都是必用规则，墙裂推荐使用！
 
