@@ -167,16 +167,16 @@ $${👇}$$
 ### $${设置\ {\color{lightgreen}基础版中的所有规则} + 选择性导入\ {\color{lightgreen}以下不同类目的规则：}}$$
 
 
-> [!TIP]
-> ### cookie  
+
+* ### cookie  
 > `Easylist cookie` 与 `I don't care about cookies`：<i>对列表中的网站采取最少cookie允许策略，屏蔽弹出的cookie接受窗口</i>。  
 > > ${\color{green}Tip：}$  
 > > [自从uBO 能够设置 cookie 和本地/会话存储条目以来](https://www.reddit.com/r/uBlockOrigin/comments/1961919/easylist_cookie_notices_how_does_it_work/#:~:text=uBO%20has%20the%20capability%20to%20set%20cookies%20and%20local/session%20storage%20entries%2C%20and%20also%20to%20click%20elements%20on%20webpages.)，两者的差别目前主要就是网站cookie的接受策略。对于它们两个之间哪个更好，完全看个人的取舍。观看两者的一些讨论👉[①](https://community.brave.com/t/why-is-easylist-cookie-list-included-but-not-i-dont-care-about-cookies/321405) [②](https://community.brave.com/t/feature-request-add-i-dont-care-about-cookies-filter/244984)👈，本人用 Easylist cookie :joy:
 
 
 
-> [!TIP]
-> ### 烦人元素  
+
+* ### 烦人元素  
 > `Web Annoyances Ultralist`：<i>又一个屏蔽页面上烦人元素的规则集</i>  
 > `yokoffing's Annoyances List`：<i>一个精心策划的列表，捕获了其他维护者错过的麻烦。它还清理了许多网站周围的混乱（例如，相关文章、“阅读更多”等）。</i>  
 > `Browse websites without logging in`：<i>此列表尝试绕过站点上的强制登录。</i>  
@@ -185,8 +185,8 @@ $${👇}$$
 
  
 
-> [!TIP]
-> ### 安全  
+
+* ### 安全  
  > ~~`oisd big`：<i>阻止广告、(Mobile) 应用程序广告、网络钓鱼、恶意广告、恶意软件、间谍软件、勒索软件、加密劫持、诈骗、...遥测/分析/跟踪（正常功能不需要时）</i>~~  
 > ~~`hagezi pro`：<i>阻止广告、联盟、跟踪、指标、遥测、网络钓鱼、恶意软件、诈骗、假货、硬币和其他 "垃圾"</i>~~  
 > `hagezi pro mini`：<i>针对网络浏览器优化的 Hagezi Pro DNS 阻止列表的较小版本（78k 与 159k 规则）。简化的列表排除了与网页浏览无关的规则，例如阻止物联网跟踪和设备遥测的规则。此迷你版本可阻止与广告、跟踪、分析和恶意软件相关的域。</i>  
