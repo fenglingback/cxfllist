@@ -158,7 +158,7 @@ $${👇}$$
 
 
 > [!TIP]  
-> :star2: 为 `推荐` 订阅规则，也是本人使用的规则
+> :star2: 为 `推荐` 订阅规则。规则名称上右键复制订阅地址，导入即可，也可以用下面的一键导入。
 
 
 
@@ -166,16 +166,16 @@ $${👇}$$
 * ### cookie  
 > `🌟 Easylist cookie (ubo中勾选)` 与 [`I don't care about cookies`](https://www.i-dont-care-about-cookies.eu/abp/)：<i>对列表中的网站采取最少cookie允许策略，屏蔽弹出的cookie接受窗口</i>。  
 > > ${\color{green}Tip：}$  
-> > [自从uBO 能够设置 cookie 和本地/会话存储条目以来](https://www.reddit.com/r/uBlockOrigin/comments/1961919/easylist_cookie_notices_how_does_it_work/#:~:text=uBO%20has%20the%20capability%20to%20set%20cookies%20and%20local/session%20storage%20entries%2C%20and%20also%20to%20click%20elements%20on%20webpages.)，两者的差别目前主要就是网站cookie的接受策略。对于它们两个之间哪个更好，完全看个人的取舍。观看两者的一些讨论👉[①](https://community.brave.com/t/why-is-easylist-cookie-list-included-but-not-i-dont-care-about-cookies/321405) [②](https://community.brave.com/t/feature-request-add-i-dont-care-about-cookies-filter/244984)👈，本人用 Easylist cookie :joy:
+> > [自从uBO 能够设置 cookie 和本地/会话存储条目以来](https://www.reddit.com/r/uBlockOrigin/comments/1961919/easylist_cookie_notices_how_does_it_work/#:~:text=uBO%20has%20the%20capability%20to%20set%20cookies%20and%20local/session%20storage%20entries%2C%20and%20also%20to%20click%20elements%20on%20webpages.)，两者的差别目前主要就是网站cookie的接受策略。对于它们两个之间哪个更好，众说纷纭。观看两者的一些讨论👉[①](https://community.brave.com/t/why-is-easylist-cookie-list-included-but-not-i-dont-care-about-cookies/321405) [②](https://community.brave.com/t/feature-request-add-i-dont-care-about-cookies-filter/244984)👈，本人用 Easylist cookie :joy:，当然你也可以两个都添加
 
 
 
 
 * ### 烦人元素  
-> [`Web Annoyances Ultralist`](https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt)：<i>一个屏蔽页面上烦人元素的规则集</i>  
+> [`Web Annoyances Ultralist（修复版）`](https://raw.githubusercontent.com/LanikSJ/webannoyances/master/ultralist.txt)：<i>旨在移除阻挡屏幕视图的讨厌网页元素，如固定标题、悬浮导航、社交图标等比较广泛的元素</i>  
 > [`🌟 yokoffing's Annoyances List`](https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt)：<i>一个精心策划的列表，捕获了其他维护者错过的麻烦。它还清理了许多网站周围的混乱（例如，相关文章、“阅读更多”等）。</i>  
 > [`🌟 Browse websites without logging in`](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt)：<i>此列表尝试绕过站点上的强制登录。</i>  
-> [`Adblock Warning Removal List`](https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt)：<i>某些网站会检测到用户使用了广告拦截器，并显示警告信息，要求用户禁用广告拦截器才能继续访问网站内容，此规则就是用于去除这些警告</i>  
+> [`🌟 Adblock Warning Removal List`](https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt)：<i>某些网站会检测到用户使用了广告拦截器，并显示警告信息，要求用户禁用广告拦截器才能继续访问网站内容，此规则就是用于去除这些警告</i>  
  
 
  
