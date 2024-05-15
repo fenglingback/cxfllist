@@ -21,6 +21,12 @@ stackoverflow.com##.otFloatingRoundedCorner.ot-bottom-left.ot-wo-title.vertical-
 
 deepl.com##.w-full.bg-white.sm\:px-8.lg\:px-\[70px\]
 deepl.com##.p-8.lg\:px-\[70px\]
+www.deepl.com##footer
+www.deepl.com##.sticky.BasePageHeader-module--container--2By68.h-fit.z-50.relative
+www.deepl.com##.gap-4.justify-center.sm\:items-center.items-start.flex.sm\:px-2\.5.sm\:py-2.py-3.px-4.bg-blue-next-100.z-40
+www.deepl.com##.CareerBanner-module--container--cAhHB
+www.deepl.com##.md\:block.hidden.mr-10
+www.deepl.com##div.bg-white.w-full:nth-of-type(2)
 
 
 fanyi.baidu.com##.sF3Yx_p0
@@ -33,6 +39,12 @@ ghxi.com##div[style="padding: 10px; position: fixed; bottom: 0px; left: 0px; rig
 so.360.com##.items-center.flex.ml-auto > :nth-child(-n+2)
 so.360.com##.bottom-0.right-0.left-0.fixed.bg-\[\#fff\].h-40px.mx-auto.w-full
 so.360.com##.items-center.gap-24px.flex-col.flex.z-1000.bottom-48px.fixed > div:last-child
+
+
+www.huya.com###HUYA-UDBSdkLgn
+www.huya.com##.mod-sidebar
+www.huya.com##.room-hd-r
+www.huya.com###tipsOrchat
 
 
 unsplash.com##.ehKFX
@@ -52,4 +64,6 @@ www.cronista.com##.z100.zfull.z2.zone
 
 
 www.pinkvilla.com##section[itemprop="advertisingSection"]
+
+
 
