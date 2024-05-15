@@ -217,10 +217,11 @@ $${👇}$$
 > 这个优化版本可能会让一些网站的广告屏蔽失效，本人 `不太建议使用`。如果发现确实有问题，请换回原版。
 
 2) [EasyPrivacy (14k Optimized vs. 50k Original)](https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt)
+> [!TIP]  
 > 这个版本还不错，可以使用。
 
 3) [Fanboy Annoyances (56k Optimized vs. 81k Original)](https://filters.adtidy.org/extension/ublock/filters/122_optimized.txt) == `Easylist cookie notices` + `Easylist social widgets`
-
+> [!IMPORTANT]  
 > 使用此规则你需要 <kbd>取消勾选</kbd> `Easylist - Cookie Notices` 和 `Easylist social widgets`，<kbd>保留</kbd> `uBlock filters – Cookie Notices`
 
 
