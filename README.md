@@ -1,6 +1,6 @@
 # $${\color{#00FFFF}cxfllist}$$
 
-<h3 align="center">⚡️The most complete and useful rule-list of Ad and tracking for Chinese babies on the browser.⚡️</h3>  
+<h3 align="center">⚡️The best rule-list of Ad and tracking for Chinese babies on the browser.⚡️</h3>  
 
 ### $${浏览器上最适合中国宝宝体质、最全、最有效的\ {\color{red}广告} \ {\color{lightblue}和} \ {\color{green}隐私}\ 规则集}$$
 
