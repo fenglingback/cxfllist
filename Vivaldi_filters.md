@@ -6,7 +6,7 @@
 
 
 > [!IMPORTANT]  
-> 勾选EasyList、EasyPrivacy、EasyList China、DuckDuckGo Tracker Radar、Adblock Warning Removal List、CJX's Annoyance List。它们和:star2:都是必用规则，墙裂推荐使用！
+> 勾选EasyList、EasyPrivacy、EasyList China、DuckDuckGo Tracker Radar、Adblock Warning Removal List、CJX's Annoyance List。它们和 :star2: 都是必用规则，墙裂推荐使用！
 
 
 ## 选择你需要的规则集，然后右键复制它的链接地址，到:
