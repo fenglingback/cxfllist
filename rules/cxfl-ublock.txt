@@ -34,7 +34,7 @@ fanyi.baidu.com##.sF3Yx_p0
 fanyi.baidu.com##.URCZyDIb
 
 
-ghxi.com##div[style="padding: 10px; position: fixed; bottom: 0px; left: 0px; right: 0px; z-index: 99; background-color: rgb(204, 68, 68); color: rgb(255, 255, 255); --darkreader-inline-bgcolor: #982a2a; --darkreader-inline-color: #e8e6e3;"]
+ghxi.com##div[style^="padding: 10px; position: fixed; bottom: 0"]
 
 
 so.360.com##.items-center.flex.ml-auto > :nth-child(-n+2)
