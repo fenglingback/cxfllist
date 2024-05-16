@@ -1,6 +1,7 @@
 [uBlock Origin]
 ! Title: cxfl's uBlock list
 ! Homepage: https://github.com/fenglingback/cxfllist
+! Expires: 1 days (update frequency)
 ! 
 ! 这是本人自用的静态规则，在互联网冲浪过程中不断进行补充 (对应cxfl-adblockplus自定义.txt中的cxfl's rules部分)
 ! Filters optimized for uBlock
