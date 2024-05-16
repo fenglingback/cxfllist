@@ -32,7 +32,7 @@ $${👇}$$
 ## 快速指南
 
 > [!IMPORTANT]  
-> ### 1. 新手、普通用户，建议仅操作 👉 [基础版](#基础版)
+> ### 1. 新手、普通用户，建议安装完 👉 [ubo](https://www.crxsoso.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm) 后，仅操作 👉 [基础版](#基础版)
 >
 > 2. 高级玩家（需要一定的技术积累），建议全篇看完
 >
@@ -106,7 +106,7 @@ $${👇}$$
 ## 基础版
 
 > [!IMPORTANT]  
-> 这个版本适合 `只浏览国内网站`，或者 `很少时间` 浏览国外网站，或者 `对跟踪隐私方面没啥感觉` 的宝宝，已经非常够用了！安装完 👉 [ubo](https://www.crxsoso.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm) 后开始操作：
+> 这个版本适合 `只浏览国内网站`，或者 `很少时间` 浏览国外网站，或者 `对跟踪隐私方面没啥感觉` 的宝宝，已经非常够用了！
 
 
 
