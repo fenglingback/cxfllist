@@ -288,7 +288,30 @@ $${👇}$$
 
 ## 作者本人使用规则
 
-![](https://raw.githubusercontent.com/fenglingback/cxfllist/main/images/作者自用.png)
+> [!TIP]  
+>
+> ![](https://raw.githubusercontent.com/fenglingback/cxfllist/main/images/作者自用.png)
+
+
+保留 `内置`、`EasyList`、`Online Malicious URL blocklist`、`EasyList/uBO - Cookie Notices`、`Easylist - Annoyances`、`uBlock filters - Annoyances`、`AdGuard Chinese（中文）`，导入以下自定义规则订阅链接：
+
+
+```
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt
+https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
+https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
+https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/minority-mv.txt
+https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Popup.txt
+https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Watermark.txt
+https://raw.githubusercontent.com/fenglingback/cxfllist/main/rules/cxfl-ublock.txt
+
+https://raw.githubusercontent.com/LanikSJ/webannoyances/master/ultralist.txt
+https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
+https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt
+https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt
+```
 
 
 
