@@ -78,7 +78,7 @@ $${👇}$$
 ### $${\color{#ff8000}ubo用户请继续往下看}$$
 
 <h3 align="center">其他用户请点击</h3>
-<h3 align="center">↙ &nbsp; &nbsp; &nbsp; ↘</h3>
+<h3 align="center">↙️ &nbsp; &nbsp; &nbsp; ↘️</h3>
 
 <table align="center">
     <tr>
