@@ -77,15 +77,8 @@ $${👇}$$
 
 ### $${\color{#ff8000}ubo用户请继续往下看}$$
 
-<h3 align="center">其他用户请点击</h3>
-<h3 align="center">↙️ &nbsp; &nbsp; &nbsp; ↘️</h3>
+<h3 align="center"><a href="./ABP_filters.md">Adblock Plus</a> ← 其他用户请点击 → <a href="./Vivaldi_filters.md">Vivaldi</a></h3>
 
-<table align="center">
-    <tr>
-        <td><a href="https://github.com/fenglingback/cxfllist/blob/main/ABP_filters.md">Adblock Plus</td>
-        <td><a href="https://github.com/fenglingback/cxfllist/blob/main/Vivaldi_filters.md">Vivaldi</td>
-    </tr>
-</table>
 
 
 
