@@ -73,12 +73,12 @@ $${👇}$$
 $${👇}$$
 
 
-## $${现在，请选择你的过滤器，我只推荐uBlock \ Origin(ubo)}$$
+<h3 align="center">现在，请选择你的过滤器，我只推荐 <a href="https://www.crxsoso.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock Origin (ubo)</a></h3>
 
-### $$ubo用户请继续往下看$$
+### $${\color{#ff8000}ubo用户请继续往下看}$$
 
-### $${↙其他用户请点击↘}$$
-
+<h3 align="center">其他用户请点击</h3>
+<h3 align="center">↙ &nbsp; &nbsp; &nbsp; ↘</h3>
 
 <table align="center">
     <tr>
