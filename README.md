@@ -16,6 +16,10 @@
 ### $${{\color{#FF00FF}因此，如果想要\ {\color{red}充分地满足自定义的需求}，你需要\ {\color{yellow}自己写规则}，或者\ {\color{yellow}给我提issue}}}$$
 
 
+<br>
+<br>
+
+
 $${👇}$$
 
 $${👇}$$
@@ -35,7 +39,8 @@ $${👇}$$
 > ### 3. 作者同款 👉 [规则](#作者本人使用规则)
 
 
-
+<br>
+<br>
 
 
 $${👇}$$
@@ -64,6 +69,10 @@ $${👇}$$
 > DoT/DoH和DoH这两种解析方式任选其一，理论上DoT/DoQ会比DoH快，`只是理论上`:sweat_smile:  
 >
 > 那么此时，下面提及的 ~~`hagezi pro`~~ `hagezi pro mini` 可以不添加了，因为这个规则集已经在dns服务器上部署了。
+
+
+<br>
+<br>
 
 
 $${👇}$$
@@ -142,7 +151,8 @@ https://raw.githubusercontent.com/fenglingback/cxfllist/main/rules/cxfl-ublock.t
 ```
 
 
-
+<br>
+<br>
 
 
 $${👇}$$
@@ -213,6 +223,9 @@ https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt
 
 
 
+<br>
+<br>
+
 
 $${👇}$$
 
@@ -249,6 +262,9 @@ $${👇}$$
 
 
 
+<br>
+<br>
+
 
 
 $${👇}$$
@@ -273,6 +289,9 @@ $${👇}$$
 | `updateAssetBypassBrowserCache` | `true`  |   当手动获取过滤器列表的频率超过每小时时绕过缓存       |
 
 
+
+<br>
+<br>
 
 
 
@@ -313,6 +332,10 @@ https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt
 https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt
 ```
 
+
+
+<br>
+<br>
 
 
 
