@@ -10,7 +10,7 @@
 
 ! -----------------url block-------------------!
 ||cdn.shopify.com^
-
+@@||accounts.google.com/gsi/client$script,domain=x.com
 
 
 
@@ -70,4 +70,4 @@ www.cronista.com##.z100.zfull.z2.zone
 www.pinkvilla.com##section[itemprop="advertisingSection"]
 
 
-
+x.com##.r-ttdzmv.r-vacyoi.css-175oi2r > div.css-175oi2r > .r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r
