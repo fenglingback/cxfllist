@@ -15,6 +15,13 @@
 
 
 
+! -----------------cancel element block-----------------!
+2001online.com#@#.entry-social
+
+
+
+
+
 ! ----------------element block-----------------!
 stackoverflow.com###onetrust-banner-sdk
 stackoverflow.com##.otFloatingRoundedCorner.ot-bottom-left.ot-wo-title.vertical-align-content
@@ -71,3 +78,8 @@ www.pinkvilla.com##section[itemprop="advertisingSection"]
 
 
 x.com##.r-ttdzmv.r-vacyoi.css-175oi2r > div.css-175oi2r > .r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r
+
+
+github.com##.text-medium.text-center.px-lg-8.px-md-5.px-4.fgColor-onEmphasis.bgColor-done-emphasis.lh-condensed.position-relative.d-block.global-banner
+
+
