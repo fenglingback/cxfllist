@@ -134,7 +134,7 @@ $${👇}$$
 > [`乘风小众视频过滤规则`](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/minority-mv.txt)：<i>国内小众视频网站的广告过滤规则</i>  
 > [`runningcheese's Adblock_Popup`](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Popup.txt)：<i>属于网页弹窗过滤规则的补充</i>  
 > [`runningcheese's Adblock_Watermark`](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Watermark.txt)：<i>去除国内网页水印的规则，包括AI、文档、设计等平台</i>  
-> [`cxfl's ublock list`](https://raw.githubusercontent.com/fenglingback/cxfllist/main/rules/cxfl-ublock.txt)：本人维护，对所有规则集的补充，主要为屏蔽网页烦人元素，请在添加完所有订阅规则后再添加  
+> [`cxfl's ublock list`](https://raw.githubusercontent.com/fenglingback/cxfllist/main/rules/cxfl-ublock.txt)：本人维护，对所有规则集的补充，主要为屏蔽网页烦人元素，包括对某些规则的修复，请在添加完所有订阅规则后再添加  
 > > ${\color{#5dff00}Tip：}$  
 > > 对于国内必备规则，你可以在下面进行 `一键导入 (墙裂推荐)`，也可以选择其中的一些规则，名称上右键复制链接地址再导入。
 

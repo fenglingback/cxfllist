@@ -10,7 +10,13 @@
 
 ! -----------------url block-------------------!
 ||cdn.shopify.com^
+
+
+
+
+! -----------------cancel url block-----------------!
 @@||accounts.google.com/gsi/client$script,domain=x.com
+
 
 
 
