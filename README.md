@@ -208,10 +208,12 @@ $${👇}$$
 * ### 烦人元素  
 > `🌟 uBlock filters – Annoyances（ubo中勾选）`：<i>ubo自己的烦人元素过滤规则</i>  
 > `🌟 Easylist - Annoyances（ubo中勾选）`：<i>Easylist的烦人元素过滤规则</i>  
-> [`🌟 Web Annoyances Ultralist（修复版）`](https://raw.githubusercontent.com/LanikSJ/webannoyances/master/ultralist.txt)：<i>旨在移除阻挡屏幕视图的讨厌网页元素，如固定标题、悬浮导航、社交图标等比较广泛的元素</i>  
+> [`Web Annoyances Ultralist（修复版）`](https://raw.githubusercontent.com/LanikSJ/webannoyances/master/ultralist.txt)：<i>旨在移除阻挡屏幕视图的讨厌网页元素，如固定标题、悬浮导航、社交图标等比较广泛的元素</i>  
 > [`🌟 yokoffing's Annoyances List`](https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt)：<i>一个精心策划的列表，捕获了其他维护者错过的麻烦。它还清理了许多网站周围的混乱（例如，相关文章、“阅读更多”等）。</i>  
 > [`🌟 Browse websites without logging in`](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt)：<i>此列表尝试绕过站点上的强制登录。</i>  
 > [`🌟 Adblock Warning Removal List`](https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt)：<i>某些网站会检测到用户使用了广告拦截器，并显示警告信息，要求用户禁用广告拦截器才能继续访问网站内容，此规则就是用于去除这些警告</i>  
+> > ${\color{#5dff00}Tip：}$  
+> > 其中的 `Web Annoyances Ultralist` 对部分国外网站的损坏严重，请谨慎使用。
  
 
  
@@ -231,7 +233,6 @@ $${👇}$$
 
 ### 一键导入推荐规则：
 ```
-https://raw.githubusercontent.com/LanikSJ/webannoyances/master/ultralist.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
 https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt

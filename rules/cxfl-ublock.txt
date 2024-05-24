@@ -10,6 +10,7 @@
 
 ! -----------------url block-------------------!
 ||cdn.shopify.com^
+||metager.org/js/scriptResultPage.js$script,1p
 
 
 
@@ -94,4 +95,14 @@ x.com##.r-ttdzmv.r-vacyoi.css-175oi2r > div.css-175oi2r > .r-1udh08x.r-1ifxtd0.r
 
 github.com##.text-medium.text-center.px-lg-8.px-md-5.px-4.fgColor-onEmphasis.bgColor-done-emphasis.lh-condensed.position-relative.d-block.global-banner
 
+
+metager.org###startpage-quicklinks
+metager.org###story-container
+metager.org###scroll-links
+metager.org##[class*="PageFooter"]
+metager.org###additions-container
+metager.org##[src^="https://search.yahoo.com/beacon/geop/p?s="]
+metager.org###engine-footer
+metager.org###search-key
+metager.org###external-search
 
