@@ -24,7 +24,7 @@
 
 ! -----------------cancel element block-----------------!
 2001online.com#@#.entry-social
-
+so.360.com#@#div:style(background-image:none!important)
 
 
 
