@@ -42,12 +42,15 @@ www.ecosia.org##.card--border.card--as-a.card.chat-card.footer-card
 
 deepl.com##.w-full.bg-white.sm\:px-8.lg\:px-\[70px\]
 deepl.com##.p-8.lg\:px-\[70px\]
-www.deepl.com##footer
-www.deepl.com##.sticky.BasePageHeader-module--container--2By68.h-fit.z-50.relative
-www.deepl.com##.gap-4.justify-center.sm\:items-center.items-start.flex.sm\:px-2\.5.sm\:py-2.py-3.px-4.bg-blue-next-100.z-40
-www.deepl.com##.CareerBanner-module--container--cAhHB
-www.deepl.com##.md\:block.hidden.mr-10
-www.deepl.com##div.bg-white.w-full:nth-of-type(2)
+deepl.com##footer
+deepl.com##.sticky.BasePageHeader-module--container--2By68.h-fit.z-50.relative
+deepl.com##.gap-4.justify-center.sm\:items-center.items-start.flex.sm\:px-2\.5.sm\:py-2.py-3.px-4.bg-blue-next-100.z-40
+deepl.com##.CareerBanner-module--container--cAhHB
+deepl.com##.md\:block.hidden.mr-10
+deepl.com##div.bg-white.w-full:nth-of-type(2)
+deepl.com##.justify-center.ProductNavigationLinks-module--container--NeO1k > :has-text(/应用程序|为何选择/)
+deepl.com##.sm\:gap-x-3.gap-x-0.items-center.flex > :nth-child(-n+2)
+deepl.com##.SideMenuButton-module--menuButton--lBjeg
 
 
 fanyi.baidu.com##.sF3Yx_p0, .URCZyDIb
@@ -107,5 +110,9 @@ metager.org##[src^="https://search.yahoo.com/beacon/geop/p?s="]
 metager.org###engine-footer
 metager.org###search-key
 metager.org###external-search
+
+
+dimtown.com##.rbtn-vip
+dimtown.com##.footer-tow
 
 
