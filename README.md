@@ -16,15 +16,16 @@
 ### $${{\color{#FF00FF}因此，如果想要\ {\color{red}充分地满足自定义的需求}，你需要\ {\color{yellow}自己写规则}，或者\ {\color{yellow}给我提issue}}}$$
 
 
+
 <br>
+
+$${👇}$$
+
+$${👇}$$
+
+$${👇}$$
+
 <br>
-
-
-$${👇}$$
-
-$${👇}$$
-
-$${👇}$$
 
 
 
@@ -39,16 +40,16 @@ $${👇}$$
 > 3. 作者同款 👉 [规则](#作者本人使用规则)（新手不建议 ❌）
 
 
+
 <br>
+
+$${👇}$$
+
+$${👇}$$
+
+$${👇}$$
+
 <br>
-
-
-$${👇}$$
-
-$${👇}$$
-
-$${👇}$$
-
 
 
 
@@ -72,14 +73,15 @@ $${👇}$$
 
 
 <br>
+
+$${👇}$$
+
+$${👇}$$
+
+$${👇}$$
+
 <br>
 
-
-$${👇}$$
-
-$${👇}$$
-
-$${👇}$$
 
 
 <h3 align="center">现在，请选择你的过滤器，我只推荐 <a href="https://www.crxsoso.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock Origin (ubo)</a></h3>
@@ -89,17 +91,17 @@ $${👇}$$
 <h3 align="center"><a href="./ABP_filters.md">Adblock Plus</a> ← 其他用户请点击 → <a href="./Vivaldi_filters.md">Vivaldi</a></h3>
 
 
+
 <br>
+
+$${👇}$$
+
+$${👇}$$
+
+$${👇}$$
+
 <br>
 
-
-
-
-$${👇}$$
-
-$${👇}$$
-
-$${👇}$$
 
 
 
@@ -156,18 +158,17 @@ https://raw.githubusercontent.com/fenglingback/cxfllist/main/rules/cxfl-ublock.t
 
 
 ### $${\color{red}新手、普通用户到此结束}$$
-***
+---
 
 <br>
+
+$${👇}$$
+
+$${👇}$$
+
+$${👇}$$
+
 <br>
-
-
-$${👇}$$
-
-$${👇}$$
-
-$${👇}$$
-
 
 
 
@@ -242,18 +243,14 @@ https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt
 
 
 <br>
+
+$${👇}$$
+
+$${👇}$$
+
+$${👇}$$
+
 <br>
-
-
-$${👇}$$
-
-$${👇}$$
-
-$${👇}$$
-
-
-
-
 
 
 ## 优化版
@@ -281,16 +278,14 @@ $${👇}$$
 
 
 <br>
+
+$${👇}$$
+
+$${👇}$$
+
+$${👇}$$
+
 <br>
-
-
-
-$${👇}$$
-
-$${👇}$$
-
-$${👇}$$
-
 
 
 
@@ -309,15 +304,14 @@ $${👇}$$
 
 
 <br>
+
+$${👇}$$
+
+$${👇}$$
+
+$${👇}$$
+
 <br>
-
-
-
-$${👇}$$
-
-$${👇}$$
-
-$${👇}$$
 
 
 
@@ -353,16 +347,14 @@ https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt
 
 
 <br>
+
+$${👇}$$
+
+$${👇}$$
+
+$${👇}$$
+
 <br>
-
-
-
-$${👇}$$
-
-$${👇}$$
-
-$${👇}$$
-
 
 
 
@@ -374,11 +366,22 @@ $${👇}$$
 
 <br>
 <br>
+
+
+## $${{\color{red}Let's}\ {\color{white}Clear}\ {\color{#00bfff}the}\ {\color{#ffa600}Internet}\ {\color{#1bb32b}together} ❗}$$
+
+
+
+[![https://gafam.info](https://ptrace.gafam.info/unofficial/img/color/lqdn-gafam-poster-en-color-5x1-2560x.png)](https://gafam.info)
+
+
+<br>
+<br>
 <br>
 
 
 
 <div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=9&id=53889&s=1' border='0' alt='Free Website Counter'></a><br / ></div>
-<div align='center'>Clear the Internet together ❗</div>
+<div align='center'>Since &nbsp;2024.05.15</div>
 
 
