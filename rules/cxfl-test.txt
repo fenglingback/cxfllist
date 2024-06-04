@@ -6,14 +6,5 @@
 ! Email (fenglinggod@qq.com)
 
 
-
-||cdn.shopify.com^
-||epr.ssl.so.com/com/ads
-||so.360.com/api/popup/config
-||so.360.com/onebox/*
-||e.so.com/com/ads
-||api.ssl.so.com/vqrwt/search
-||tv.360kan.com/v1/recomm
-||tv.360kan.com/v1/related
-
+so.360.com#?#.flex.pl-192px > div:-abp-contains(软件)
 
