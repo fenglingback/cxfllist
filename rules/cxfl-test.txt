@@ -1,0 +1,10 @@
+[Adblock Plus 2.0]
+! Title: cxfl's test list
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/fenglingback/cxfllist
+!
+! 这是本人的测试规则集，生效后会移除并合并到其它规则集中
+! Email (fenglinggod@qq.com)
+
+
+
