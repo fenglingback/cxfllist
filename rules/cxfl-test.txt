@@ -6,5 +6,6 @@
 ! Email (fenglinggod@qq.com)
 
 
-so.360.com##//div[class="flex pl-192px"]/div[contains(text(),"软件")]
+so.360.com##/html/body/div[1]/div/div[1]/div[1]/div[2]/div[7]
+! //div[class="flex pl-192px"]/div[contains(text(),"软件")]
 
