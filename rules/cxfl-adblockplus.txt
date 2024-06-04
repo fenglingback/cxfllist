@@ -1,4 +1,3 @@
-[Adblock Plus 2.0]
 ! 这是本人自用的规则，并且在互联网冲浪过程中不断进行补充
 ! Title: cxfl's adblockplus list
 ! Expires: 1 days (update frequency)
