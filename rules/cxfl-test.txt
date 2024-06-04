@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+[Adblock Plus 1.0]
 ! Title: cxfl's test list
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/fenglingback/cxfllist
@@ -6,5 +6,12 @@
 ! 这是本人的测试规则集，生效后会移除并合并到其它规则集中
 ! Email (fenglinggod@qq.com)
 
+
+so.360.com##.items-center.flex.ml-auto > :nth-child(-n+2)
+so.360.com##.bottom-0.right-0.left-0.fixed.bg-\[\#fff\].h-40px.mx-auto.w-full
+so.360.com##.items-center.gap-24px.flex-col.flex.z-1000.bottom-48px.fixed > div:last-child
+so.360.com##div[id="input_content"] > img
+so.360.com##.\!justify-start.flex-shrink-0.text-12px.gap-40px.justify-center.items-center.flex.h-40px.w-ful
+so.360.com##div[style^="z-index: 99; position: absolute; left: 0; top: 0; width: 100%; height: 100%"]
 
 
