@@ -8,7 +8,6 @@
 
 
 ||cdn.shopify.com^
-||metager.org/js/scriptResultPage.js$script,1p
 ||epr.ssl.so.com/com/ads
 ||so.360.com/api/popup/config
 ||so.360.com/onebox/*
