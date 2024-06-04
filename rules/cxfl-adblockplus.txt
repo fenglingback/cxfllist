@@ -1,63 +1,9 @@
-! 这是本人自用的规则，合并多个自定义规则，并且在互联网冲浪过程中不断进行补充(点击ABP图标>齿轮>高级>我的过滤列表下文本框)
-! 自定义规则是在订阅规则运行结束之后再运行的，所以使用此规则之前必须先添加、更新订阅规则
+! 这是本人自用的规则，并且在互联网冲浪过程中不断进行补充
+! Title: cxfl's adblockplus list
+! Expires: 6 hours
+
 ! Email (fenglinggod@qq.com)
 
-!------------------------CJX's rules------------------------!
-
-||valipl.cp31.ott.cibntv.net^$media,rewrite=abp-resource:blank-mp3,domain=youku.com
-||cibntv.net/youku/$media,rewrite=abp-resource:blank-mp3,domain=youku.com
-||alicdn.com^*yksdk/*sdk.js$script,domain=youku.com
-sohu.com#$#json-prune Ad
-le.com#$#override-property-read isAdLoaded true
-le.com#$#override-property-read Object.prototype.noAD true
-qq.com#$#override-property-read CreativePlayerwebPlugin.AD_EVENT.AD_LOAD_START ''
-qq.com#$#override-property-read CreativePlayerwebPlugin.AD_EVENT.AD_DESTROY ''
-qq.com#$#json-prune ad
-||cupid.iqiyi.com/mixer?
-iqiyi.com,iq.com#$#override-property-read Object.prototype.blackscreenDuration true
-iqiyi.com#$#json-prune adSlots
-iqiyi.com#$#override-property-read QiyiPlayerProphetData.a.data.showResponse.slots null
-iqiyi.com#$#override-property-read QiyiPlayerProphetData.a.data.originRes.adSlots null
-1010jiajiao.com#$#abort-on-property-read jQuery.cssHooks.height
-15yc.cc#$#abort-on-property-write encode_version
-233tw.com#$#abort-current-inline-script onload
-2nyan.org#$#abort-on-property-read _0xcc85f5
-3cinfo.net#$#abort-current-inline-script eval split
-4399.com#$#abort-on-property-read defaultbackgroundimg
-5278.cc,hboav.com#$#abort-on-property-read onload;abort-on-property-read onmessage;abort-on-property-read adbk;abort-on-property-read warm_msg
-||5278.cc/js/c.js
-52xkdy.com,fydy8.com#$#override-property-read jsok true
-939394.xyz#$#abort-current-inline-script atob
-@@||hboav.com/guga/images/20201021.jpg
-ahri8.top#$#abort-current-inline-script document.querySelectorAll popMagic
-baomidou.com#$#override-property-read _AdBlockInit true
-bingfeng.tw#$#abort-current-inline-script setTimeout
-creaders.net#$#abort-current-inline-script fsabrActive
-cocomanhua.com#$#abort-on-property-read jQuery.fn.html; abort-on-property-read __cad.cpm_popunder; abort-on-property-read __ad
-ddys.pro,ddrk.me,ddys.tv,ddys.art#$#abort-on-property-read Object.prototype.ads.isInAdMode
-dieka123.com,hanjutvn.com,hukanyy.com,taijuwang.com#$#abort-on-property-read history.pushState
-dlkoo.com#$#abort-current-inline-script setTimeout testad
-fpbsnc.com,lsntzzy3.com#$#override-property-read ps noopFunc
-hktvyb.com#$#abort-current-inline-script setInterval
-htqyy.com#$#abort-on-property-read isBlk;abort-on-property-read adFlag
-itdog.cn#$#abort-on-property-read alert
-league-funny.com#$#abort-on-property-read onload
-52bdys.com,bde4.icu#$#abort-on-property-read onload
-nfmovies.com#$#abort-current-inline-script $myui probe
-pincong.rocks#$#abort-on-property-read AWS.alert
-qnxocv.com#$#abort-current-inline-script loadBannerDirect gif
-rjno1.com#$#abort-current-inline-script setTimeout;abort-current-inline-script onload
-rjno1.com#?#div:-abp-has(> p:-abp-contains(ad block))
-rmdown.com#$#abort-on-property-read rmJson;abort-on-property-read poJson
-ruanyifeng.com#$#abort-on-property-read setTimeout;override-property-read checker ''
-tingfm.com#$#override-property-read canRunAds true
-xianzhenyuan.cn#$#abort-on-property-read ad
-vxetable.cn#$#abort-current-inline-script decodeURIComponent wwads
-! #Novels
-dhzw8.com,hkslg8.com,konlan.org,lewxs.com,snwx3.com,sqsxs.com,xtmetb.com#$#abort-on-property-read _go
-
-
-!------------------------cxfl's rules------------------------!
 
 ! -----------------url block-------------------!
 ||cdn.shopify.com^
@@ -112,7 +58,7 @@ so.360.com##.bottom-0.right-0.left-0.fixed.bg-\[\#fff\].h-40px.mx-auto.w-full
 so.360.com##.items-center.gap-24px.flex-col.flex.z-1000.bottom-48px.fixed > div:last-child
 so.360.com##div[id="input_content"] > img
 so.360.com##.\!justify-start.flex-shrink-0.text-12px.gap-40px.justify-center.items-center.flex.h-40px.w-ful
-so.360.com##.pl-192px.flex > div:-abp-contains(软件)
+so.360.com#?#.pl-192px.flex > div:-abp-contains(软件)
 
 
 devv.ai##.sm\:before\:flex-1.sm\:px-3\.5.backdrop-blur-xl.py-2.px-6.bg-background\/\[0\.15\].border-divider.border-b-1.gap-x-3.items-center.w-full.flex

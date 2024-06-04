@@ -4,7 +4,7 @@
 
 
 > [!TIP]  
-> `cxfl-adblockplus自定义规则`：本人维护，等同于 <kbd>cjx补充</kbd> + <kbd>cxfl's ublock list</kbd>
+> `cxfl's adblockplus list`：本人维护，等同于 <kbd>cxfl's ublock list</kbd>
 
 
 > [!IMPORTANT]  
@@ -30,5 +30,6 @@
 * [hagezi pro mini](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt)
 * [oisd nsfw](https://nsfw.oisd.nl/)
 * [yokoffing's Annoyance List](https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt)
-* :star2: [cxfl-adblockplus自定义规则  `不能订阅，需打开全选复制添加到自定义过滤列表中`](https://raw.githubusercontent.com/fenglingback/cxfllist/main/rules/cxfl-adblockplus.txt)
+* :star2: [CJX's ABP专用  `不能订阅，需打开全选复制添加到自定义过滤列表中`](https://cjx82630.github.io/cjxlist.html)
+* :star2: [cxfl's adblockplus list](https://raw.githubusercontent.com/fenglingback/cxfllist/main/rules/cxfl-adblockplus.txt)
 
