@@ -1,5 +1,7 @@
 # Vivaldi-filter
 
+> 为什么专门写一个Vivaldi的规则？请看👉[Vivaldi Adblock is mostly Adblock Plus and ublock-origin](https://baronhk.wordpress.com/2021/10/15/vivaldi-adblock-is-mostly-adblock-plus-and-ublock-origin/)
+
 
 > [!TIP]  
 > ~~`DuckDuckGo Tracker Radar`：<i>也是一个反跟踪规则，精简但高效，甚至能屏蔽一些网站的指纹识别</i>~~  
