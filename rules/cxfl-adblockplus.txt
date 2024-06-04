@@ -75,9 +75,9 @@ unsplash.com##.ehKFX
 
 yandex.com##.AdvRsyaCrossPage
 yandex.com##.ImagesViewer-SidebarAdv
-yandex.com##[class*="-Incut"]
+yandex.com##[class$="-Incut"]
 yandex.ru##.ImagesViewer-SidebarAdv
-yandex.ru##[class*="-Incut"]
+yandex.ru##[class$="-Incut"]
 
 
 www.health.com##.mntl-block.mntl-jwplayer-broad.article__broad-video-jw.comp
