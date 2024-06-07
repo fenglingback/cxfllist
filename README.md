@@ -337,7 +337,6 @@ https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Res
 https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Watermark.txt
 https://raw.githubusercontent.com/fenglingback/cxfllist/main/rules/cxfl-ublock.txt
 
-https://raw.githubusercontent.com/LanikSJ/webannoyances/master/ultralist.txt
 https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
 https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt
