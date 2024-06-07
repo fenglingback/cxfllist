@@ -319,7 +319,7 @@ $${👇}$$
 
 > [!TIP]  
 >
-> ![](https://raw.githubusercontent.com/fenglingback/cxfllist/main/images/作者自用.png)
+> ![](https://raw.githubusercontent.com/fenglingback/cxfllist/main/images/作者同款.png)
 >
 > 勾选 `内置`、`EasyList`、`Online Malicious URL blocklist`、`EasyList/uBO - Cookie Notices`、`Easylist - Annoyances`、`uBlock filters - Annoyances`、`AdGuard Chinese（中文）`，导入以下自定义规则订阅链接：
 
