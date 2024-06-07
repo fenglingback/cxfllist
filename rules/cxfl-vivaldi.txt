@@ -102,7 +102,7 @@ x.com##.r-ttdzmv.r-vacyoi.css-175oi2r > div.css-175oi2r > .r-1udh08x.r-1ifxtd0.r
 
 github.com##.text-medium.text-center.px-lg-8.px-md-5.px-4.fgColor-onEmphasis.bgColor-done-emphasis.lh-condensed.position-relative.d-block.global-banner
 !github.com##article.py-3.width-full.flex-column.d-flex.js-notice
-github.com##.js-notice-dismiss[data-analytics-visible]
+github.com##.feed-right-sidebar > .js-notice
 
 
 metager.org###startpage-quicklinks
