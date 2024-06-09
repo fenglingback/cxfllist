@@ -16,10 +16,12 @@
 
 ## What we need to do
 
-### ① 把Vivaldi自带的拦截器级别改成：`不拦截`
+### ① 把 Vivaldi 自带的拦截器级别改成：`不拦截`
 
 > [!TIP]  
 > 
+> 设置 → 隐私与安全 → 跟踪器和广告拦截
+>
 > ![](https://raw.githubusercontent.com/fenglingback/cxfllist/main/images/vivaidi拦截器设置.png)
 
 
