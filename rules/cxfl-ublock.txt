@@ -56,6 +56,7 @@ deepl.com##div.bg-white.w-full:nth-of-type(2)
 deepl.com##.justify-center.ProductNavigationLinks-module--container--NeO1k > :has-text(/应用程序|为何选择/)
 deepl.com##.sm\:gap-x-3.gap-x-0.items-center.flex > :nth-child(-n+2)
 deepl.com##.SideMenuButton-module--menuButton--lBjeg
+deepl.com##.justify-center.sm\:items-center.items-start.flex.bg-blue-next-100
 
 
 fanyi.baidu.com##.sF3Yx_p0, .URCZyDIb
