@@ -122,3 +122,13 @@ dimtown.com##.rbtn-vip
 dimtown.com##.footer-tow
 
 
+developer.mozilla.org##.fallback.top-banner
+
+
+www.epe.es##.top-position-sticky.ft-mol-rrss-columnSticky.ft-mol-rrss-column
+www.epe.es##.ft-layout-grid-flex__colMd-4.ft-layout-grid-flex__colSm-5.ft-layout-grid-flex__colXs-12
+www.epe.es###footer-media
+www.epe.es##.ft-layout-header.ft-layout-header--is-short.ft-helper-bgColor-primary
+
+
+
