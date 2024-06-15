@@ -17,6 +17,8 @@
 ||api.ssl.so.com/vqrwt/search
 ||tv.360kan.com/v1/recomm
 ||tv.360kan.com/v1/related
+||redmas.com.co/ajax/related/morenews.json
+
 
 
 
@@ -130,6 +132,11 @@ www.epe.es##.top-position-sticky.ft-mol-rrss-columnSticky.ft-mol-rrss-column
 www.epe.es##.ft-layout-grid-flex__colMd-4.ft-layout-grid-flex__colSm-5.ft-layout-grid-flex__colXs-12
 www.epe.es###footer-media
 www.epe.es##.ft-layout-header.ft-layout-header--is-short.ft-helper-bgColor-primary
+
+
+redmas.com.co##.related-autoslider.relative.pt3.pb4.container-popular.land-see-recent-content ~ *
+redmas.com.co##.justify-center.pt1.align-top.flex-auto.flex.land-see-story-social
+
 
 
 
