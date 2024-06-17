@@ -138,5 +138,6 @@ redmas.com.co##.related-autoslider.relative.pt3.pb4.container-popular.land-see-r
 redmas.com.co##.justify-center.pt1.align-top.flex-auto.flex.land-see-story-social
 
 
-
+www.montevideo.com.uy##div.col-md-6 > .redes
+www.montevideo.com.uy##.date-shares.separador
 
