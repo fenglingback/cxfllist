@@ -114,7 +114,9 @@ $${👇}$$
 
 ### $${保留\ {\color{lightgreen}初始状态的默认规则} + 导入\ {\color{lightgreen}国内必备规则：}}$$
 
+<details>
 
+<summary style="text-align:center;font-size:24px;color:red;">🌟详细说明</summary>
 
 > [!TIP]  
 >
@@ -142,7 +144,7 @@ $${👇}$$
 > > ${\color{#5dff00}Tip：}$  
 > > 对于国内必备规则，你可以在下面进行 `一键导入 (墙裂推荐)`，也可以选择其中的一些规则，名称上右键复制链接地址再导入。
 
-
+</details>
 
 
 ### 国内必备规则一键复制导入：
@@ -191,7 +193,9 @@ $${👇}$$
 ### $${设置\ {\color{lightgreen}基础版中的所有规则} + 选择性导入\ {\color{lightgreen}以下不同类目的规则：}}$$
 
 
+<details>
 
+<summary style="text-align:center;font-size:24px;color:red;">🌟详细说明</summary>
 
 
 > [!TIP]  
@@ -231,6 +235,9 @@ $${👇}$$
 > > `Peter Lowe's Ad and tracking server list`、`oisd big` 已经被淘汰了，因为 `hagezi pro` 更强更高效，详情请看👉[①](https://github.com/hagezi/dns-blocklists/issues/2346#:~:text=There%20is%20also%20Peter%20Lowe%27s%20Ad%20and%20tracking%20list%20if%20someone%20really%20only%20wants%20to%20block%20ads%20and%20tracking.) [②](https://www.reddit.com/r/nextdns/comments/192mdeh/why_should_i_use_hagezi_in_place_of_oisd/)👈。然后，它的mini版本 `hagezi pro mini` 更适合在浏览器上使用。不过我本人通过使用 `hagezi pro++` 的DNS进行过滤 :joy:
 > >
 > > 因此，如果你添加了`hagezi pro mini`，请把 `Peter Lowe's Ad and tracking server list` <kbd>取消勾选</kbd>。
+
+
+</details>
 
 
 
