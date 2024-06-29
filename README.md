@@ -114,12 +114,17 @@ $${👇}$$
 
 ### $${保留\ {\color{lightgreen}初始状态的默认规则} + 导入\ {\color{lightgreen}国内必备规则：}}$$
 
+
+$${👇}$$
+
+
 <details>
 
 <summary align="center">🌟详细说明</summary>
 
-> [!TIP]  
->
+<br/> 
+
+ 
 > ![](https://raw.githubusercontent.com/fenglingback/cxfllist/main/images/%E5%9F%BA%E7%A1%80%E7%89%88.png)
 >  
 > ${\color{teal} \normalsize 初始状态的默认规则：}$  
@@ -145,6 +150,9 @@ $${👇}$$
 > > 对于国内必备规则，你可以在下面进行 `一键导入 (墙裂推荐)`，也可以选择其中的一些规则，名称上右键复制链接地址再导入。
 
 </details>
+
+$${👇}$$
+
 
 
 ### 国内必备规则一键复制导入：
@@ -193,14 +201,18 @@ $${👇}$$
 ### $${设置\ {\color{lightgreen}基础版中的所有规则} + 选择性导入\ {\color{lightgreen}以下不同类目的规则：}}$$
 
 
+$${👇}$$
+
+
 <details>
 
-<summary style="text-align:center;font-size:24px;color:red;">🌟详细说明</summary>
+<summary align="center">🌟详细说明</summary>
 
 
-> [!TIP]  
+<br/>
+
+
 > :star2: 为 `推荐` 订阅规则。规则名称上右键复制订阅地址，导入即可，也可以用下面的一键导入。
-
 
 
 
@@ -238,6 +250,9 @@ $${👇}$$
 
 
 </details>
+
+
+$${👇}$$
 
 
 
