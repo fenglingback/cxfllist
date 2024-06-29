@@ -338,12 +338,17 @@ $${👇}$$
 <br>
 
 
+
+## 作者本人使用规则
+
+
 <details>
 
 
-## <summary>作者本人使用规则</summary>
+<summary>点击展开</summary>
 
- 
+<br>
+
 
 > ![](https://raw.githubusercontent.com/fenglingback/cxfllist/main/images/作者同款.png)
 >
@@ -368,15 +373,19 @@ $${👇}$$
 >
 
 
-</details>
-
 <br>
 
-$${👇}$$
 
 $${👇}$$
 
 $${👇}$$
+
+$${👇}$$
+
+
+</details>
+
+
 
 <br>
 
