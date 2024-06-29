@@ -116,7 +116,7 @@ $${👇}$$
 
 <details>
 
-<summary style="text-align:center;font-size:24px;color:red;">🌟详细说明</summary>
+<summary align="center">🌟详细说明</summary>
 
 > [!TIP]  
 >
