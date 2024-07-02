@@ -239,7 +239,7 @@ $${👇}$$
 
 
 * ### 安全  
- > ~~[`oisd big`](https://big.oisd.nl/)：<i>阻止广告、(Mobile) 应用程序广告、网络钓鱼、恶意广告、恶意软件、间谍软件、勒索软件、加密劫持、诈骗、...遥测/分析/跟踪（正常功能不需要时）</i>~~  
+> ~~[`oisd big`](https://big.oisd.nl/)：<i>阻止广告、(Mobile) 应用程序广告、网络钓鱼、恶意广告、恶意软件、间谍软件、勒索软件、加密劫持、诈骗、...遥测/分析/跟踪（正常功能不需要时）</i>~~  
 > ~~[`hagezi pro`](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt)：<i>阻止广告、联盟、跟踪、指标、遥测、网络钓鱼、恶意软件、诈骗、假货、硬币和其他 "垃圾"</i>~~  
 > [`🌟 hagezi pro mini`](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt)：<i>针对网络浏览器优化的 Hagezi Pro DNS 阻止列表的较小版本（78k 与 159k 规则）。简化的列表排除了与网页浏览无关的规则，例如阻止物联网跟踪和设备遥测的规则。此迷你版本可阻止与广告、跟踪、分析和恶意软件相关的域。</i>  
 > [`oisd nsfw`](https://nsfw.oisd.nl/)：<i>最全的 <kbd>色情、惊悚、成人</kbd> 服务器主机屏蔽列表</i>  
@@ -247,6 +247,15 @@ $${👇}$$
 > > `Peter Lowe's Ad and tracking server list`、`oisd big` 已经被淘汰了，因为 `hagezi pro` 更强更高效，详情请看👉[①](https://github.com/hagezi/dns-blocklists/issues/2346#:~:text=There%20is%20also%20Peter%20Lowe%27s%20Ad%20and%20tracking%20list%20if%20someone%20really%20only%20wants%20to%20block%20ads%20and%20tracking.) [②](https://www.reddit.com/r/nextdns/comments/192mdeh/why_should_i_use_hagezi_in_place_of_oisd/)👈。然后，它的mini版本 `hagezi pro mini` 更适合在浏览器上使用。不过我本人通过使用 `hagezi pro++` 的DNS进行过滤 :joy:
 > >
 > > 因此，如果你添加了`hagezi pro mini`，请把 `Peter Lowe's Ad and tracking server list` <kbd>取消勾选</kbd>。
+
+
+
+
+
+* ### AI
+> [`Huge AI Blocklist`](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt)：<i>过滤Google、DuckDuckGo、Bing中部分涉及AI网站的屏蔽规则</i>
+> > ${\color{#5dff00}Tip：}$  
+> > `Huge AI Blocklist` 这个列表的初心其实是为了屏蔽AI生成的图像，但它的写法却直接把属于 AI 领域的域名的所有链接都屏蔽了，只能说写法不够好吧，只适合那些完全不想看到任何一点有关 AI 的用户。
 
 
 </details>
