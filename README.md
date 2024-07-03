@@ -120,27 +120,31 @@ $${👇}$$
 
 <details>
 
-<summary align="center">🌟详细说明</summary>
+<summary align="center"><code><strong>🌟详细说明</strong></code></summary>
 
 <br/> 
 
  
-> ![](https://raw.githubusercontent.com/fenglingback/cxfllist/main/images/%E5%9F%BA%E7%A1%80%E7%89%88.png)
->  
-> ${\color{teal} \normalsize 初始状态的默认规则：}$  
->
-> `内置`：<i>ubo自己最核心的规则集</i>  
-> `EasyList`：<i>最主流的国际网站的广告过滤规则</i>  
-> `EasyPrivacy`：<i>最主流的反跟踪规则</i>  
-> `Online Malicious URL blocklist`：<i>用于阻止访问恶意或危险网站的列表，加强网络安全</i>  
-> `Peter Lowe's Ad and tracking server list`：<i>只包含广告和跟踪服务器 `主机` 的拦截列表</i>  
-> `AdGuard Chinese（中文）`：<i>`Easylist China` 的改良版本，最主流的国内网站的广告过滤规则</i>  
->  
-> ${\color{teal} \normalsize国内必备规则：}$  
-> 
-> [`CJX's Annoyance List`](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)：<i><kbd>easylist china</kbd> 的补充，主要屏蔽国内网站页面上烦人的元素</i>  
-> [`CJX's ublock list`](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt)：<i>对 Easylist + Easylist China + Easyprivacy + cjx's Annoyance List的补充</i>  
-> [`乘风广告过滤规则`](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)：<i>国内网站广告过滤规则的后起之秀</i>  
+![](https://raw.githubusercontent.com/fenglingback/cxfllist/main/images/%E5%9F%BA%E7%A1%80%E7%89%88.png)
+
+${\color{teal} \normalsize 初始状态的默认规则：}$  
+
+| 规则列表 | 介绍 |
+| :--------: | :-------: |
+| `内置` | <i>ubo自己最核心的规则集</i> |  
+| `EasyList` | <i>最主流的国际网站的广告过滤规则</i> |  
+| `EasyPrivacy` | <i>最主流的反跟踪规则</i> | 
+| `Online Malicious URL blocklist` | <i>用于阻止访问恶意或危险网站的列表，加强网络安全</i> | 
+| `Peter Lowe's Ad and tracking server list` | <i>只包含广告和跟踪服务器 `主机` 的拦截列表</i> | 
+| `AdGuard Chinese（中文）` | <i>`Easylist China` 的改良版本，最主流的国内网站的广告过滤规则</i> | 
+
+${\color{teal} \normalsize国内必备规则：}$  
+
+| 规则列表 | 介绍 |
+| :--------: | :----------: |
+| [`CJX's Annoyance List`](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)| <i><kbd>easylist china</kbd> 的补充，主要屏蔽国内网站页面上烦人的元素</i> | 
+| [`CJX's ublock list`](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt)| <i>对 Easylist + Easylist China + Easyprivacy + cjx's Annoyance List的补充</i> | 
+| [`乘风广告过滤规则`](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)| <i>国内网站广告过滤规则的后起之秀</i> | 
 > [`乘风视频过滤规则`](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt)：<i>国内视频网站的广告过滤规则</i>  
 > [`乘风小众视频过滤规则`](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/minority-mv.txt)：<i>国内小众视频网站的广告过滤规则</i>  
 > [`runningcheese's Adblock_Popup`](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Popup.txt)：<i>属于网页弹窗过滤规则的补充</i>  
@@ -206,7 +210,7 @@ $${👇}$$
 
 <details>
 
-<summary align="center">🌟详细说明</summary>
+<summary align="center"><code><strong>🌟详细说明</strong></code></summary>
 
 
 <br/>
@@ -354,7 +358,7 @@ $${👇}$$
 <details>
 
 
-<summary>点击展开</summary>
+<summary><code><strong>点击展开</strong></code></summary>
 
 <br>
 
