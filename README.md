@@ -142,16 +142,17 @@ ${\color{teal} \normalsize国内必备规则：}$
 
 | 规则列表 | 介绍 |
 | :--------: | :----------: |
-| [`CJX's Annoyance List`](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt)| <i><kbd>easylist china</kbd> 的补充，主要屏蔽国内网站页面上烦人的元素</i> | 
-| [`CJX's ublock list`](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt)| <i>对 Easylist + Easylist China + Easyprivacy + cjx's Annoyance List的补充</i> | 
-| [`乘风广告过滤规则`](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)| <i>国内网站广告过滤规则的后起之秀</i> | 
-> [`乘风视频过滤规则`](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt)：<i>国内视频网站的广告过滤规则</i>  
-> [`乘风小众视频过滤规则`](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/minority-mv.txt)：<i>国内小众视频网站的广告过滤规则</i>  
-> [`runningcheese's Adblock_Popup`](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Popup.txt)：<i>属于网页弹窗过滤规则的补充</i>  
-> [`runningcheese's Adblock_Watermark`](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Watermark.txt)：<i>去除国内网页水印的规则，包括AI、文档、设计等平台</i>  
-> [`cxfl's ublock list`](https://raw.githubusercontent.com/fenglingback/cxfllist/main/rules/cxfl-ublock.txt)：本人维护，对所有规则集的补充，主要为屏蔽网页烦人元素，包括对某些规则的修复，请在添加完所有订阅规则后再添加  
-> > ${\color{#5dff00}Tip：}$  
-> > 对于国内必备规则，你可以在下面进行 `一键导入 (墙裂推荐)`，也可以选择其中的一些规则，名称上右键复制链接地址再导入。
+| [`CJX's Annoyance List`](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt) | <i><kbd>easylist china</kbd> 的补充，主要屏蔽国内网站页面上烦人的元素</i> | 
+| [`CJX's ublock list`](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt) | <i>对 Easylist + Easylist China + Easyprivacy + cjx's Annoyance List的补充</i> | 
+| [`乘风广告过滤规则`](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt) | <i>国内网站广告过滤规则的后起之秀</i> | 
+| [`乘风视频过滤规则`](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt) | <i>国内视频网站的广告过滤规则</i> | 
+| [`乘风小众视频过滤规则`](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/minority-mv.txt) | <i>国内小众视频网站的广告过滤规则</i> | 
+| [`runningcheese's Adblock_Popup`](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Popup.txt) | <i>属于网页弹窗过滤规则的补充</i> | 
+| [`runningcheese's Adblock_Watermark`](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Watermark.txt) | <i>去除国内网页水印的规则，包括AI、文档、设计等平台</i> | 
+| [`cxfl's ublock list`](https://raw.githubusercontent.com/fenglingback/cxfllist/main/rules/cxfl-ublock.txt) | 本人维护，对所有规则集的补充，主要为屏蔽网页烦人元素，包括对某些规则的修复，请在添加完所有订阅规则后再添加 |
+
+> [!TIP]  
+> 对于国内必备规则，你可以在下面进行 `一键导入 (墙裂推荐)`，也可以选择其中的一些规则，名称上右键复制链接地址再导入。
 
 </details>
 
@@ -221,9 +222,15 @@ $${👇}$$
 
 
 * ### cookie  
-> `🌟 Easylist/ubo - Cookie Notices (ubo中勾选)` 与 [`I don't care about cookies`](https://www.i-dont-care-about-cookies.eu/abp/)：<i>对列表中的网站采取最少cookie允许策略，屏蔽弹出的cookie接受窗口</i>。  
-> > ${\color{#5dff00}Tip：}$  
-> > [自从uBO 能够设置 cookie 和本地/会话存储条目以来](https://www.reddit.com/r/uBlockOrigin/comments/1961919/easylist_cookie_notices_how_does_it_work/#:~:text=uBO%20has%20the%20capability%20to%20set%20cookies%20and%20local/session%20storage%20entries%2C%20and%20also%20to%20click%20elements%20on%20webpages.)，两者的差别目前主要就是网站cookie的接受策略。对于它们两个之间哪个更好，众说纷纭。观看两者的一些讨论👉[①](https://community.brave.com/t/why-is-easylist-cookie-list-included-but-not-i-dont-care-about-cookies/321405) [②](https://community.brave.com/t/feature-request-add-i-dont-care-about-cookies-filter/244984)👈，本人用 Easylist cookie :joy:，当然你也可以两个都添加
+
+| 规则列表 | 介绍 |
+| :----: | :----: |  
+| `🌟 Easylist/ubo - Cookie Notices (ubo中勾选)` 与 [`I don't care about cookies`](https://www.i-dont-care-about-cookies.eu/abp/) | <i>对列表中的网站采取最少cookie允许策略，屏蔽弹出的cookie接受窗口</i> |  
+
+
+> ${\color{#5dff00}Tip：}$  
+> 
+> [自从uBO 能够设置 cookie 和本地/会话存储条目以来](https://www.reddit.com/r/uBlockOrigin/comments/1961919/easylist_cookie_notices_how_does_it_work/#:~:text=uBO%20has%20the%20capability%20to%20set%20cookies%20and%20local/session%20storage%20entries%2C%20and%20also%20to%20click%20elements%20on%20webpages.)，两者的差别目前主要就是网站cookie的接受策略。对于它们两个之间哪个更好，众说纷纭。观看两者的一些讨论👉[①](https://community.brave.com/t/why-is-easylist-cookie-list-included-but-not-i-dont-care-about-cookies/321405) [②](https://community.brave.com/t/feature-request-add-i-dont-care-about-cookies-filter/244984)👈，本人用 Easylist cookie :joy:，当然你也可以两个都添加
 
 
 
