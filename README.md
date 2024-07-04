@@ -127,7 +127,7 @@ $${👇}$$
  
 ![](https://raw.githubusercontent.com/fenglingback/cxfllist/main/images/%E5%9F%BA%E7%A1%80%E7%89%88.png)
 
-${\color{teal} \normalsize 初始状态的默认规则：}$  
+${\color{teal} 初始状态的默认规则：}$  
 
 | 规则列表 | 介绍 |
 | :--------: | :-------: |
@@ -138,7 +138,7 @@ ${\color{teal} \normalsize 初始状态的默认规则：}$
 | `Peter Lowe's Ad and tracking server list` | <i>只包含广告和跟踪服务器 `主机` 的拦截列表</i> | 
 | `AdGuard Chinese（中文）` | <i>`Easylist China` 的改良版本，最主流的国内网站的广告过滤规则</i> | 
 
-${\color{teal} \normalsize国内必备规则：}$  
+${\color{teal} 国内必备规则：}$  
 
 | 规则列表 | 介绍 |
 | :--------: | :----------: |
@@ -151,7 +151,8 @@ ${\color{teal} \normalsize国内必备规则：}$
 | [`runningcheese's Adblock_Watermark`](https://raw.githubusercontent.com/runningcheese/RunningCheese-Firefox/master/Restore/Adblock_Watermark.txt) | <i>去除国内网页水印的规则，包括AI、文档、设计等平台</i> | 
 | [`cxfl's ublock list`](https://raw.githubusercontent.com/fenglingback/cxfllist/main/rules/cxfl-ublock.txt) | 本人维护，对所有规则集的补充，主要为屏蔽网页烦人元素，包括对某些规则的修复，请在添加完所有订阅规则后再添加 |
 
-> [!TIP]  
+> ${\color{#5dff00}Tip：}$  
+>
 > 对于国内必备规则，你可以在下面进行 `一键导入 (墙裂推荐)`，也可以选择其中的一些规则，名称上右键复制链接地址再导入。
 
 </details>
@@ -217,6 +218,7 @@ $${👇}$$
 <br/>
 
 
+> [!IMPORTANT]  
 > :star2: 为 `推荐` 订阅规则。规则名称上右键复制订阅地址，导入即可，也可以用下面的一键导入。
 
 
@@ -234,46 +236,64 @@ $${👇}$$
 
 
 
+<br/>
+
 
 * ### 烦人元素  
-> `🌟 uBlock filters – Annoyances（ubo中勾选）`：<i>ubo自己的烦人元素过滤规则</i>  
-> `🌟 Easylist - Annoyances（ubo中勾选）`：<i>Easylist的烦人元素过滤规则</i>  
-> ~~[`Web Annoyances Ultralist（修复版）`](https://raw.githubusercontent.com/LanikSJ/webannoyances/master/ultralist.txt)：<i>旨在移除阻挡屏幕视图的讨厌网页元素，如固定标题、悬浮导航、社交图标等比较广泛的元素</i>~~  
-> [`🌟 yokoffing's Annoyances List`](https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt)：<i>一个精心策划的列表，捕获了其他维护者错过的麻烦。它还清理了许多网站周围的混乱（例如，相关文章、“阅读更多”等）。</i>  
-> [`🌟 Browse websites without logging in`](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt)：<i>此列表尝试绕过站点上的强制登录。</i>  
-> [`🌟 Adblock Warning Removal List`](https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt)：<i>某些网站会检测到用户使用了广告拦截器，并显示警告信息，要求用户禁用广告拦截器才能继续访问网站内容，此规则就是用于去除这些警告</i>  
-> > ${\color{#5dff00}Tip：}$  
-> > 其中的 `Web Annoyances Ultralist` 对部分国外网站的损坏严重，`不建议` 使用。
+
+| 规则列表 | 介绍 |
+| :----: | :----: |
+| `🌟 uBlock filters – Annoyances（ubo中勾选）` | <i>ubo自己的烦人元素过滤规则</i> | 
+| `🌟 Easylist - Annoyances（ubo中勾选）` | <i>Easylist的烦人元素过滤规则</i> | 
+| [`Web Annoyances Ultralist（修复版）`](https://raw.githubusercontent.com/LanikSJ/webannoyances/master/ultralist.txt) | <i>旨在移除阻挡屏幕视图的讨厌网页元素，如固定标题、悬浮导航、社交图标等比较广泛的元素</i> |
+| [`🌟 yokoffing's Annoyances List`](https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt) | <i>一个精心策划的列表，捕获了其他维护者错过的麻烦。它还清理了许多网站周围的混乱（例如，相关文章、“阅读更多”等）。</i> | 
+| [`🌟 Browse websites without logging in`](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt) | <i>此列表尝试绕过站点上的强制登录。</i> | 
+| [`🌟 Adblock Warning Removal List`](https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt) | <i>某些网站会检测到用户使用了广告拦截器，并显示警告信息，要求用户禁用广告拦截器才能继续访问网站内容，此规则就是用于去除这些警告</i> |
+
+> ${\color{#5dff00}Tip：}$  
+> 
+> 其中的 `Web Annoyances Ultralist` 对部分国外网站的损坏严重，`不建议` 使用。
  
 
- 
+<br/>
 
 
 * ### 安全  
-> ~~[`oisd big`](https://big.oisd.nl/)：<i>阻止广告、(Mobile) 应用程序广告、网络钓鱼、恶意广告、恶意软件、间谍软件、勒索软件、加密劫持、诈骗、...遥测/分析/跟踪（正常功能不需要时）</i>~~  
-> ~~[`hagezi pro`](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt)：<i>阻止广告、联盟、跟踪、指标、遥测、网络钓鱼、恶意软件、诈骗、假货、硬币和其他 "垃圾"</i>~~  
-> [`🌟 hagezi pro mini`](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt)：<i>针对网络浏览器优化的 Hagezi Pro DNS 阻止列表的较小版本（78k 与 159k 规则）。简化的列表排除了与网页浏览无关的规则，例如阻止物联网跟踪和设备遥测的规则。此迷你版本可阻止与广告、跟踪、分析和恶意软件相关的域。</i>  
-> [`oisd nsfw`](https://nsfw.oisd.nl/)：<i>最全的 <kbd>色情、惊悚、成人</kbd> 服务器主机屏蔽列表</i>  
-> > ${\color{#5dff00}Tip：}$  
-> > `Peter Lowe's Ad and tracking server list`、`oisd big` 已经被淘汰了，因为 `hagezi pro` 更强更高效，详情请看👉[①](https://github.com/hagezi/dns-blocklists/issues/2346#:~:text=There%20is%20also%20Peter%20Lowe%27s%20Ad%20and%20tracking%20list%20if%20someone%20really%20only%20wants%20to%20block%20ads%20and%20tracking.) [②](https://www.reddit.com/r/nextdns/comments/192mdeh/why_should_i_use_hagezi_in_place_of_oisd/)👈。然后，它的mini版本 `hagezi pro mini` 更适合在浏览器上使用。不过我本人通过使用 `hagezi pro++` 的DNS进行过滤 :joy:
-> >
-> > 因此，如果你添加了`hagezi pro mini`，请把 `Peter Lowe's Ad and tracking server list` <kbd>取消勾选</kbd>。
+
+| 规则列表 | 介绍 |
+| :----: | :----: |
+| ~~[`oisd big`](https://big.oisd.nl/)~~ | ~~<i>阻止广告、(Mobile) 应用程序广告、网络钓鱼、恶意广告、恶意软件、间谍软件、勒索软件、加密劫持、诈骗、...遥测/分析/跟踪（正常功能不需要时）</i>~~ | 
+| ~~[`hagezi pro`](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt)~~ | ~~<i>阻止广告、联盟、跟踪、指标、遥测、网络钓鱼、恶意软件、诈骗、假货、硬币和其他 "垃圾"</i>~~ | 
+| [`🌟 hagezi pro mini`](https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.mini.txt) | <i>针对网络浏览器优化的 Hagezi Pro DNS 阻止列表的较小版本（78k 与 159k 规则）。简化的列表排除了与网页浏览无关的规则，例如阻止物联网跟踪和设备遥测的规则。此迷你版本可阻止与广告、跟踪、分析和恶意软件相关的域。</i> | 
+| [`oisd nsfw`](https://nsfw.oisd.nl/) | <i>最全的 <kbd>色情、惊悚、成人</kbd> 服务器主机屏蔽列表</i> | 
+> ${\color{#5dff00}Tip：}$  
+> 
+> `Peter Lowe's Ad and tracking server list`、`oisd big` 已经被淘汰了，因为 `hagezi pro` 更强更高效，详情请看👉[①](https://github.com/hagezi/dns-blocklists/issues/2346#:~:text=There%20is%20also%20Peter%20Lowe%27s%20Ad%20and%20tracking%20list%20if%20someone%20really%20only%20wants%20to%20block%20ads%20and%20tracking.) [②](https://www.reddit.com/r/nextdns/comments/192mdeh/why_should_i_use_hagezi_in_place_of_oisd/)👈。然后，它的mini版本 `hagezi pro mini` 更适合在浏览器上使用。不过我本人通过使用 `hagezi pro++` 的DNS进行过滤 :joy:
+>
+> 因此，如果你添加了`hagezi pro mini`，请把 `Peter Lowe's Ad and tracking server list` <kbd>取消勾选</kbd>。
 
 
-
+<br/>
 
 
 * ### AI
-> [`Huge AI Blocklist`](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt)：<i>过滤Google、DuckDuckGo、Bing中部分涉及AI网站的屏蔽规则</i>
-> > ${\color{#5dff00}Tip：}$  
-> > `Huge AI Blocklist` 这个列表的初心其实是为了屏蔽AI生成的图像，但它的写法却直接把属于 AI 领域的域名的所有链接都屏蔽了，只能说写法不够好吧，只适合那些完全不想看到任何一点有关 AI 的用户。
+
+| 规则列表 | 介绍 |
+| :----: | :----: |
+| [`Huge AI Blocklist`](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt) | <i>过滤Google、DuckDuckGo、Bing中部分涉及AI网站的屏蔽规则</i> |
+
+> ${\color{#5dff00}Tip：}$  
+> 
+> `Huge AI Blocklist` 这个列表的初心其实是为了屏蔽AI生成的图像，但它的写法却直接把属于 AI 领域的域名的所有链接都屏蔽了，只能说写法不够好吧，只适合那些完全不想看到任何一点有关 AI 的用户。
 
 
 </details>
 
+<br/>
 
 $${👇}$$
 
+<br/>
 
 
 ### 一键导入推荐规则：
