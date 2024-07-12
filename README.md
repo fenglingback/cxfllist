@@ -416,6 +416,7 @@ $${👇}$$
 > https://raw.githubusercontent.com/yokoffing/filterlists/main/annoyance_list.txt
 > https://raw.githubusercontent.com/DandelionSprout/adfilt/master/BrowseWebsitesWithoutLoggingIn.txt
 > https://downloads.vivaldi.com/lists/abp/antiadblockfilters-current.txt
+> https://filters.adtidy.org/extension/ublock/filters/101_optimized.txt
 > https://filters.adtidy.org/extension/ublock/filters/118_optimized.txt
 > ```
 >
