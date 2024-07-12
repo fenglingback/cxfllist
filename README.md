@@ -145,6 +145,7 @@ ${\color{teal} 国内必备规则：}$
 | [`CJX's Annoyance List`](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt) | <i><kbd>easylist china</kbd> 的补充，主要屏蔽国内网站页面上烦人的元素</i> | 
 | [`CJX's ublock list`](https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt) | <i>对 Easylist + Easylist China + Easyprivacy + cjx's Annoyance List的补充</i> | 
 | [`轻量广告拦截规则`](https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt) | <i>主要去除色情悬浮广告</i> |  
+| [`NoAppDownload`](https://raw.gitmirror.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt) | <i>去除各种网页上的 APP 下载或跳转提示</i> |
 | [`乘风广告过滤规则`](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt) | <i>国内网站广告过滤规则的后起之秀</i> | 
 | [`乘风视频过滤规则`](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt) | <i>国内视频网站的广告过滤规则</i> | 
 | [`乘风小众视频过滤规则`](https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/minority-mv.txt) | <i>国内小众视频网站的广告过滤规则</i> | 
@@ -168,6 +169,7 @@ $${👇}$$
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt
 https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
+https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt
 https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
 https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/minority-mv.txt
@@ -405,6 +407,7 @@ $${👇}$$
 > https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 > https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt
 > https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
+> https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt
 > https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
 > https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
 > https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/minority-mv.txt
@@ -441,7 +444,7 @@ $${👇}$$
 ## 说说我个人对规则列表的看法
 
 
-网络上的规则列表太杂了，对于一些相同想法的屏蔽规则，我认为是需要统一、各大维护者进行沟通后达成共识进行合并的。同时，差异化的东西才做成自己的独特列表，并且一旦差异化消除，也需要合并到共同规则上去。不然，列表参差不齐，维护困难还浪费资源。
+网络上的规则列表太杂了，对于一些相同想法的屏蔽规则，我认为是需要统一、各大维护者进行沟通后达成共识进行合并的。同时，差异化的东西才做成自己的独特列表，并且一旦差异化消除，也需要合并到共同规则上去。否则，列表参差不齐，维护困难还浪费资源。
 
 
 <br>
