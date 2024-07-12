@@ -124,8 +124,6 @@ $${👇}$$
 
 <br/> 
 
- 
-![](https://raw.githubusercontent.com/fenglingback/cxfllist/main/images/%E5%9F%BA%E7%A1%80%E7%89%88.png)
 
 ${\color{teal} 初始状态的默认规则：}$  
 
