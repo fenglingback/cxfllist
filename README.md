@@ -1,4 +1,4 @@
-$${\LARGE \color{#00FFFF}cxfllist}$$
+$${\huge \color{#00FFFF}cxfllist}$$
 
 <h3 align="center">⚡️The best rule-list of Ad block and privacy for Chinese babies on the browser.⚡️</h3>  
 
