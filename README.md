@@ -2,7 +2,7 @@ $${\huge \color{#00FFFF}cxfllist}$$
 
 
 
-$${\large ⚡️{\color{#ff00dd}The\ best\ rule\ lists\ of\ Ad\ block\ and\ privacy\ for\ Chinese\ babies\ on\ the\ browser\ }⚡️}$$
+$${\large ⚡️{\color{#ff00dd}The\ best\ rule\ lists\ of\ Ad\ block\ and\ privacy\ for\ Chinese\ babies\ on\ the\ browser}⚡️}$$
 
 
 
