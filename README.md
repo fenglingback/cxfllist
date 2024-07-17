@@ -1,8 +1,8 @@
-# ${\color{#00FFFF}cxfllist}$
+# $${\color{#00FFFF}cxfllist}$$
 
 <h3 align="center">⚡️The best rule-list of Ad block and privacy for Chinese babies on the browser.⚡️</h3>  
 
-${浏览器上最适合中国宝宝体质、最全、最有效的\ {\color{red}广告拦截} \ {\color{lightblue}和} \ {\color{green}隐私}\ 规则集}$
+$${浏览器上最适合中国宝宝体质、最全、最有效的\ {\color{red}广告拦截} \ {\color{lightblue}和} \ {\color{green}隐私}\ 规则集}$$
 
 <br>
 
@@ -12,8 +12,8 @@ ${浏览器上最适合中国宝宝体质、最全、最有效的\ {\color{red}�
 ## 说在前面
 > [!WARNING]  
 > 所谓的主流订阅规则集，只能尽全力帮助你屏蔽广告和跟踪，但不能绝对、百分百屏蔽。  
-
-### $${{\color{#FF00FF}因此，如果想要\ {\color{red}充分地满足自定义的需求}，你需要\ {\color{yellow}自己写规则}，或者\ {\color{yellow}给我提issue}}}$$
+>
+> $${{\color{#FF00FF}因此，如果想要\ {\color{red}充分地满足自定义的需求}，你需要\ {\color{yellow}自己写规则}，或者\ {\color{yellow}给我提issue}}}$$
 
 
 
@@ -86,7 +86,9 @@ $${👇}$$
 
 <h3 align="center">现在，请选择你的过滤器，我只推荐 <a href="https://www.crxsoso.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock Origin (ubo)</a></h3>
 
-### $${\color{#ff8000}ubo用户请继续往下看}$$
+
+> $${\color{#ff8000}ubo用户请继续往下看}$$
+
 
 <h3 align="center"><a href="./ABP_filters.md">Adblock Plus</a> ← 其他用户请点击 → <a href="./Vivaldi_filters.md">Vivaldi</a></h3>
 
