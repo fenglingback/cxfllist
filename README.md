@@ -64,7 +64,7 @@ $${👇}$$
 > [!WARNING]  
 > 如果你 `总是开代理上网` ，并且 `配置了分流规则` ，那么我 `墙裂推荐` 你操作这一步。
 > 
-> ${\Large \color{red} 如果你不是，请忽略这一节}$
+> ${\Large \color{red} 如果你不是，请忽略这一节。}$
 
 
 
@@ -185,7 +185,7 @@ https://raw.githubusercontent.com/fenglingback/cxfllist/main/rules/cxfl-ublock.t
 ```
 
 
-$${\Large \color{red}新手、普通用户到此结束}$$
+> $${\large \color{red}新手、普通用户到此结束}$$
 ---
 
 
