@@ -128,7 +128,7 @@ $${👇}$$
 
 <details>
 
-<summary align="center"><code><strong>🌟详细说明</strong></code></summary>
+<summary align="center"><h3><code><strong>🌟详细说明</strong></code></h3></summary>
 
 <br/> 
 
