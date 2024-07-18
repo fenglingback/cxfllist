@@ -90,7 +90,7 @@ $${👇}$$
 
 
 
-<h3 align="center">现在，请选择你的过滤器，我只推荐 <a href="https://www.crxsoso.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock Origin (ubo)</a></h3>
+<h2 align="center">选择你的过滤器，我只推荐 <a href="https://www.crxsoso.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock Origin (ubo)</a></h2>
 
 
 > $${\large \color{#ff8000}ubo用户请继续往下看}$$
