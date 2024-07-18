@@ -17,9 +17,9 @@ $${\large 浏览器上最适合中国宝宝体质、最全、最有效的\ {\col
 ## 说在前面
 
 > [!IMPORTANT]  
-> 本文是基于 uBlock Origin (ubo) 来写的，请在安装完 `ubo` 后继续往下看。
+> 本文是基于 ![ubo](https://img.shields.io/badge/uBlock-Origin-%23800000?logo=ublockorigin&logoColor=red) 来写的，请在 `安装完` 后继续往下看。
 >
-> [Adblock Plus](./ABP_filters.md) ${\large \color{#ff8000}← 其他用户请点击 →}$ [Vivaldi](./Vivaldi_filters.md)
+> [Adblock Plus](./ABP_filters.md) ${\large \color{#ff8000}← 其他用户请点击查看对应文章 →}$ [Vivaldi](./Vivaldi_filters.md)
 >
 > ${\color{#5dff00} 安装ubo：}$  
 > 如果你是 ![Static Badge](https://img.shields.io/badge/Google-Chromium-blue?logo=googlechrome) 内核的浏览器，点击👉 [这里](https://www.crxsoso.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)  
