@@ -19,11 +19,14 @@ $${\large 浏览器上最适合中国宝宝体质、最全、最有效的\ {\col
 > [!IMPORTANT]  
 > 本文是基于 uBlock Origin (ubo) 来写的，请在安装完 `ubo` 后继续往下看。
 >
-> 安装  
-> 如果你是 `谷歌` 内核的浏览器，点击👉 [![](https://external-content.duckduckgo.com/ip3/www.chromegw.com.ico)](https://www.crxsoso.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)  
-> 如果你是 `火狐` 内核浏览器，点击👉 [<img src="https://raw.gitmirror.com/Veyhunk/Windows10_style_icon_for_win32_program/master/source/firefox.png" width="20" height="20" />](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/)
-> 
 > [Adblock Plus](./ABP_filters.md) ${\large \color{#ff8000}← 其他用户请点击 →}$ [Vivaldi](./Vivaldi_filters.md)
+>
+> ${\color{#5dff00} 安装ubo：}$  
+> 如果你是 ![Static Badge](https://img.shields.io/badge/Google-Chromium-blue?logo=googlechrome) 内核的浏览器，点击👉 [这里](https://www.crxsoso.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)  
+> 如果你是 ![Static Badge](https://img.shields.io/badge/Firefox-Gecko-orange?logo=firefoxbrowser)
+ 内核浏览器，点击👉 [这里](https://www.crxsoso.com/firefox/detail/ublock-origin)
+> 
+
 
 
 
