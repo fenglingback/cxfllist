@@ -15,6 +15,18 @@ $${\large 浏览器上最适合中国宝宝体质、最全、最有效的\ {\col
 
 
 ## 说在前面
+
+> [!IMPORTANT]  
+> 本文是基于 uBlock Origin (ubo) 来写的，请在安装完 `ubo` 后继续往下看。
+>
+> 安装  
+> 如果你是 `谷歌` 内核的浏览器，点击👉 [![](https://external-content.duckduckgo.com/ip3/www.chromegw.com.ico)](https://www.crxsoso.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)  
+> 如果你是 `火狐` 内核浏览器，点击👉 [<img src="https://raw.gitmirror.com/Veyhunk/Windows10_style_icon_for_win32_program/master/source/firefox.png" width="20" height="20" />](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/)
+> 
+> [Adblock Plus](./ABP_filters.md) ${\large \color{#ff8000}← 其他用户请点击 →}$ [Vivaldi](./Vivaldi_filters.md)
+
+
+
 > [!WARNING]  
 > 所谓的主流订阅规则集，只能尽全力帮助你屏蔽广告和跟踪，但不能绝对、百分百屏蔽。  
 >
@@ -38,7 +50,7 @@ $${👇}$$
 ## 快速指南
 
 > [!IMPORTANT]  
-> ### 1. 新手、普通用户，建议安装完 👉 [ubo](https://www.crxsoso.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm) 后，仅操作 👉 [基础版](#基础版)
+> ### 1. 新手、普通用户，建议 `仅` 操作 👉 [基础版](#基础版)
 >
 > 2. 高级玩家（需要一定的技术积累），建议全篇看完
 >
@@ -72,32 +84,13 @@ $${👇}$$
 * Hagezi's DNS - Pro
     * DoT/DoQ：`x-hagezi-pro.freedns.controld.com`
     * DoH：`https://freedns.controld.com/x-hagezi-pro`
+
 > [!IMPORTANT]  
 > DoT/DoH和DoH这两种解析方式任选其一，理论上DoT/DoQ会比DoH快，`只是理论上`:sweat_smile:  
 >
 > 那么此时，下面提及的 ~~`hagezi pro`~~ `hagezi pro mini` 可以不添加了，因为这个规则集已经在dns服务器上部署了。
 
 
-<br>
-
-$${👇}$$
-
-$${👇}$$
-
-$${👇}$$
-
-<br>
-
-
-
-## 选择你的过滤器
-
-<p style="font-size:1.3em;" align="center">我只推荐 <a href="https://www.crxsoso.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock Origin (ubo)</a></p>
-
-$${\large \color{#ff8000}ubo用户请继续往下看}$$
-
-<p style="font-size:1.3em;" align="center"><a href="./ABP_filters.md">Adblock Plus</a> ← 其他用户请点击 → <a href="./Vivaldi_filters.md">Vivaldi</a></p>
-
 
 
 <br>
@@ -109,6 +102,7 @@ $${👇}$$
 $${👇}$$
 
 <br>
+
 
 
 
