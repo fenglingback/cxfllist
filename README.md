@@ -92,11 +92,11 @@ $${👇}$$
 
 ## 选择你的过滤器
 
-> <p style="font-size:22px;" align="center">我只推荐 <a href="https://www.crxsoso.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock Origin (ubo)</a></p>
->
-> $${\large \color{#ff8000}ubo用户请继续往下看}$$
->
-> <p style="font-size:22px;" align="center"><a href="./ABP_filters.md">Adblock Plus</a> ← 其他用户请点击 → <a href="./Vivaldi_filters.md">Vivaldi</a></p>
+<p style="font-size:22px;" align="center">我只推荐 <a href="https://www.crxsoso.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm">uBlock Origin (ubo)</a></p>
+
+$${\large \color{#ff8000}ubo用户请继续往下看}$$
+
+<p style="font-size:22px;" align="center"><a href="./ABP_filters.md">Adblock Plus</a> ← 其他用户请点击 → <a href="./Vivaldi_filters.md">Vivaldi</a></p>
 
 
 
