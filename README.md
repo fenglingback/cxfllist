@@ -225,7 +225,7 @@ $${👇}$$
 
 <details>
 
-<summary align="center"><code><strong>🌟详细说明</strong></code></summary>
+<summary align="center"><h3><code><strong>🌟详细说明</strong></code></h3></summary>
 
 
 <br/>
@@ -240,7 +240,7 @@ $${👇}$$
 
 
 
-* ### cookie  
+* cookie  
 
 | 规则列表 | 介绍 |
 | :----: | :----: |  
@@ -256,7 +256,7 @@ $${👇}$$
 <br/>
 
 
-* ### 烦人元素  
+* 烦人元素  
 
 | 规则列表 | 介绍 |
 | :----: | :----: |
@@ -275,7 +275,7 @@ $${👇}$$
 <br/>
 
 
-* ### 安全  
+* 安全  
 
 | 规则列表 | 介绍 |
 | :----: | :----: |
@@ -293,7 +293,7 @@ $${👇}$$
 <br/>
 
 
-* ### AI
+* AI
 
 | 规则列表 | 介绍 |
 | :----: | :----: |
@@ -402,7 +402,7 @@ $${👇}$$
 <details>
 
 
-<summary><code><strong>点击展开</strong></code></summary>
+<summary><h3><code><strong>点击展开</strong></code></h3></summary>
 
 <br>
 
