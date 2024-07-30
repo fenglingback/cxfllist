@@ -118,7 +118,7 @@ $${👇}$$
 
 * 国外大厂DNS
 
-  * 🌟思科：速度出奇好（可能跟地区有关），推荐
+  * 🌟思科：延迟出奇低，速度一般（可能跟地区有关），推荐
 
     * DoT/DoQ：`dns.opendns.com`
     * DoH：`https://doh.opendns.com/dns-query`
