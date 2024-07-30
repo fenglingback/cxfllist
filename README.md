@@ -78,19 +78,104 @@ $${👇}$$
 > [!WARNING]  
 > 如果你 `总是开代理上网` ，并且 `配置了分流规则` ，那么我 `墙裂推荐` 你操作这一步。
 > 
-> ${\Large \color{red} 如果你不是，请忽略这一节。}$
+> ${\Large \color{red} 如果你不是，请忽略这一节。}$  
+
+ 
+
+
+### 配置本地(直连)dns服务器
+
+<table align="center">
+    <tr>
+      <th align="center">分类\性质</th><th align="center">优点</th><th align="center">缺点</th>
+    </tr>
+    <tr>
+      <td align="center">运营商DNS</td><td align="center">理论解析最快、不用配置</td><td align="center">墙特别高、会投放广告、dns劫持多</td>
+    </tr>
+    <tr>
+      <td align="center">国内大厂DNS</td><td align="center">较稳定、解析较快、不投广告</td><td align="center">不少大厂现在开始限速了（这是趋势）</td>
+    </tr>
+    <tr>
+      <td align="center">国外大厂DNS</td><td align="center">较稳定、不限速、不投广告</td><td align="center">解析较慢、可能会被运营商劫持</td>
+    <tr>
+      <td align="center">小众公益DNS</td><td align="center">隐私保护好、不投广告且自带去广告、一般没有劫持</td><td align="center">稳定性一般</td>
+    </tr>
+</table>
+
+
+* 国内大厂DNS
+
+  * 🌟腾讯：限速，但限得不多，推荐
+
+    * DoT/DoQ：`dot.pub`
+    * DoH：`https://doh.pub/dns-query`
+
+  * 阿里：限速，但设备使用还行，多设备限速明显
+
+    * DoT/DoQ：`dns.alidns.com`
+    * DoH：`https://dns.alidns.com/dns-query`
+
+
+* 国外大厂DNS
+
+  * 🌟思科：速度出奇好（可能跟地区有关），推荐
+
+    * DoT/DoQ：`dns.opendns.com`
+    * DoH：`https://doh.opendns.com/dns-query`
+
+  * 谷歌：解析较慢，可能会被运营商假冒（广州联通）
+
+    * DoT/DoQ：`dns.google`
+    * DoH：`https://dns.google/dns-query`
+
+  * cloudflare：解析较慢
+
+    * DoT/DoQ：`security.cloudflare-dns.com`
+    * DoH：`https://security.cloudflare-dns.com/dns-query`
+
+* 小众公益DNS
+
+  * 18bit
+
+    * DoT/DoQ：`dns.18bit.cn`
+    * DoH：`https://doh.18bit.cn/dns-query`
+
+
+> [!TIP]  
+>
+> **Q/A**
+> 
+> 1. 运营商dns的坑？
+> > 现在很多运营商的dns都由`南京信风`公司代理，也就是114dns的厂商，被扒过`投毒`、`监控`、`劫持`、`高墙`等问题，详情请看👉[这里](https://www.landiannews.com/archives/18431.html)
+> 
+> 2. 限速标准？
+> > 阿里云：按照请求源 IP 进行并发数限制，单个 IP 的请求数超过 20QPS、UDP/TCP 流量超过 2000bps 将触发限速策略  
+> > 
+> > 腾讯云：对单个域名限制并发 20QPS（影响比阿里云小很多）
+> 
+> 3. 运营商假冒？
+> > 广州联通，路由追踪8.8.8.8，没出地级市就到8.8.8.8了
+> 
+> 4. dot和doh的区别？
+> > dot由于 TLS 协议的轻量级封装和较少的额外开销，`只在理论上dot会比doh快`:sweat_smile:，如果算上`墙的高度`等等因素，两者速度就见仁见智了，因为doh将 DNS 查询和响应封装在 HTTPS 请求中，`更易于穿透某些网络配置，尤其是防火墙和代理服务器`。两者的选择看实际情况，比如地区、运营商、网络环境等等因素。
+> 
+> 5. 选择其他dns？
+> > `其他的国内不一定能用`，可在👉[adguard的公共dns列表](https://adguard-dns.io/kb/zh-CN/general/dns-providers/)、[dns评测](https://www.zyha.cn/select-a-good-public-dns-in-2024/) 中寻找。  
+
 
 
 
 ### 配置远程dns服务器  
+
 * Hagezi's DNS - Pro
+
     * DoT/DoQ：`x-hagezi-pro.freedns.controld.com`
-    * DoH：`https://freedns.controld.com/x-hagezi-pro`
+    * DoH：`https://freedns.controld.com/x-hagezi-pro`  
 
 > [!IMPORTANT]  
-> DoT/DoH和DoH这两种解析方式任选其一，理论上DoT/DoQ会比DoH快，`只是理论上`:sweat_smile:  
 >
-> 那么此时，下面提及的 ~~`hagezi pro`~~ `hagezi pro mini` 可以不添加了，因为这个规则集已经在dns服务器上部署了。
+> 配置了此dns后，下面提及的 ~~`hagezi pro`~~ `hagezi pro mini` 可以不添加了，因为这个规则集已经在dns服务器上部署了。
+
 
 
 
