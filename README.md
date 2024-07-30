@@ -135,7 +135,7 @@ $${👇}$$
 
 * 小众公益DNS
 
-  * 🌟[18bit](https://go.18bit.cn)：去广告、不限速，可能稳定性一般，但作者的无私奉献值得这一个推荐！
+  * 🌟[18bit](https://go.18bit.cn)：去广告、不限速，部分地区可能稳定性一般，但作者的努力值得这一个推荐！
 
     * DoT/DoQ：`dns.18bit.cn`
     * DoH：`https://doh.18bit.cn/dns-query`
