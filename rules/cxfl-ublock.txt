@@ -33,7 +33,7 @@
 ! -----------------cancel element block-----------------!
 2001online.com#@#.entry-social
 360.*#@#div:style(background-image:none!important)
-
+blog.laoda.de#@#A[target="_blank"] > IMG[width="100%"][src*=".gif"]
 
 
 
@@ -74,6 +74,7 @@ ghxi.com##div[style^="padding: 10px; position: fixed; bottom: 0"]
 360.*##.\!justify-start.flex-shrink-0.text-12px.gap-40px.justify-center.items-center.flex.h-40px.w-ful
 360.*##.pl-192px.flex > div:has-text(软件)
 360.*##div[style^="z-index: 99; position: absolute; left: 0; top: 0; width: 100%; height: 100%"]
+360.*##.z-1.bg-\[\#fff\].h-40px.mx-auto.w-full
 
 
 devv.ai##.sm\:before\:flex-1.sm\:px-3\.5.backdrop-blur-xl.py-2.px-6.bg-background\/\[0\.15\].border-divider.border-b-1.gap-x-3.items-center.w-full.flex
@@ -141,4 +142,5 @@ redmas.com.co##.justify-center.pt1.align-top.flex-auto.flex.land-see-story-socia
 
 www.montevideo.com.uy##div.col-md-6 > .redes
 www.montevideo.com.uy##.date-shares.separador
+
 
