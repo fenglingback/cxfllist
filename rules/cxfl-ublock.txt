@@ -32,8 +32,11 @@
 
 ! -----------------cancel element block-----------------!
 2001online.com#@#.entry-social
+! fix 
 360.*#@#div:style(background-image:none!important)
 blog.laoda.de#@#A[target="_blank"] > IMG[width="100%"][src*=".gif"]
+! fix yokoffing's annoyance list
+x.com#@#div#layers div[data-testid="sheetDialog"]:upward(div[role="group"][tabindex="0"])
 
 
 
@@ -63,7 +66,7 @@ deepl.com##.justify-center.sm\:items-center.items-start.flex.bg-blue-next-100
 
 fanyi.baidu.com##.sF3Yx_p0, .URCZyDIb
 
-
+! fix Dark Reader makes cjx's annoyance list invalid on ghxi.com 
 ghxi.com##div[style^="padding: 10px; position: fixed; bottom: 0"]
 
 
