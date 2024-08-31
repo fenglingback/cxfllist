@@ -146,4 +146,4 @@ redmas.com.co##.justify-center.pt1.align-top.flex-auto.flex.land-see-story-socia
 www.montevideo.com.uy##div.col-md-6 > .redes
 www.montevideo.com.uy##.date-shares.separador
 
-
+www.sotwe.com##.theme--light.v-sheet.v-card.mb-5.lighten-5.gray
