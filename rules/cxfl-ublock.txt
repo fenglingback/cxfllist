@@ -93,11 +93,9 @@ www.huya.com###HUYA-UDBSdkLgn, .mod-sidebar, .room-hd-r, #tipsOrchat
 unsplash.com##.ehKFX
 
 
-yandex.com##.AdvRsyaCrossPage
-yandex.com##.ImagesViewer-SidebarAdv
-yandex.com##[class$="-Incut"]
-yandex.ru##.ImagesViewer-SidebarAdv
-yandex.ru##[class$="-Incut"]
+yandex.*##.AdvRsyaCrossPage
+yandex.*##[class$="-Incut"]
+yandex.com##.ImagesViewer-LayoutSideblock > div > [class$="-Container"] > div:nth-child(2)
 
 
 www.health.com##.mntl-block.mntl-jwplayer-broad.article__broad-video-jw.comp
